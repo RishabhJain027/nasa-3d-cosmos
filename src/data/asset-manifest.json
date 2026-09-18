@@ -1,0 +1,5171 @@
+[
+  {
+    "id": "1999-rq36-asteroid",
+    "name": "1999 RQ36 asteroid",
+    "slug": "1999-rq36-asteroid",
+    "category": "planetary-objects",
+    "tags": [
+      "1999",
+      "rq36",
+      "asteroid"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/1999 RQ36 asteroid/1999 RQ36 asteroid.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/1999%20RQ36%20asteroid/1999%20RQ36%20asteroid.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/1999%20RQ36%20asteroid/1999%20RQ36%20asteroid.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 329596,
+    "metadata": {}
+  },
+  {
+    "id": "70-meter-dish",
+    "name": "70 meter dish",
+    "slug": "70-meter-dish",
+    "category": "spacecraft",
+    "tags": [
+      "meter",
+      "dish"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/70-meter Dish/70 meter dish.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/70-meter%20Dish/70%20meter%20dish.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/70-meter%20Dish/70%20meter%20dish.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 2216584,
+    "metadata": {}
+  },
+  {
+    "id": "active-cavity-irradiance-monitor-satellite-acrimsat-a",
+    "name": "Active Cavity Irradiance Monitor Satellite (AcrimSAT) (A)",
+    "slug": "active-cavity-irradiance-monitor-satellite-acrimsat-a",
+    "category": "satellites",
+    "tags": [
+      "active",
+      "cavity",
+      "irradiance",
+      "monitor",
+      "satellite",
+      "acrimsat"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Active Cavity Irradiance Monitor Satellite (AcrimSAT) (A)/Active Cavity Irradiance Monitor Satellite (AcrimSAT) (A).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Active%20Cavity%20Irradiance%20Monitor%20Satellite%20(AcrimSAT)%20(A)/Active%20Cavity%20Irradiance%20Monitor%20Satellite%20(AcrimSAT)%20(A).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Active%20Cavity%20Irradiance%20Monitor%20Satellite%20(AcrimSAT)%20(A)/Active%20Cavity%20Irradiance%20Monitor%20Satellite%20(AcrimSAT)%20(A).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 2115124,
+    "metadata": {}
+  },
+  {
+    "id": "active-cavity-irradiance-monitor-satellite-acrimsat-b",
+    "name": "Active Cavity Irradiance Monitor Satellite (AcrimSAT) (B)",
+    "slug": "active-cavity-irradiance-monitor-satellite-acrimsat-b",
+    "category": "satellites",
+    "tags": [
+      "active",
+      "cavity",
+      "irradiance",
+      "monitor",
+      "satellite",
+      "acrimsat"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Active Cavity Irradiance Monitor Satellite (AcrimSAT) (B)/Active Cavity Irradiance Monitor Satellite (AcrimSAT) (B).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Active%20Cavity%20Irradiance%20Monitor%20Satellite%20(AcrimSAT)%20(B)/Active%20Cavity%20Irradiance%20Monitor%20Satellite%20(AcrimSAT)%20(B).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Active%20Cavity%20Irradiance%20Monitor%20Satellite%20(AcrimSAT)%20(B)/Active%20Cavity%20Irradiance%20Monitor%20Satellite%20(AcrimSAT)%20(B).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 1091672,
+    "metadata": {}
+  },
+  {
+    "id": "advanced-composition-explorer",
+    "name": "Advanced Composition Explorer",
+    "slug": "advanced-composition-explorer",
+    "category": "spacecraft",
+    "tags": [
+      "advanced",
+      "composition",
+      "explorer"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Advanced Composition Explorer/Advanced Composition Explorer.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Advanced%20Composition%20Explorer/Advanced%20Composition%20Explorer.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Advanced%20Composition%20Explorer/Advanced%20Composition%20Explorer.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 2030760,
+    "metadata": {}
+  },
+  {
+    "id": "advanced-crew-escape-suit",
+    "name": "Advanced Crew Escape Suit",
+    "slug": "advanced-crew-escape-suit",
+    "category": "astronaut-equipment",
+    "tags": [
+      "advanced",
+      "crew",
+      "escape",
+      "suit"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Advanced Crew Escape Suit/Advanced Crew Escape Suit.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Advanced%20Crew%20Escape%20Suit/Advanced%20Crew%20Escape%20Suit.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Advanced%20Crew%20Escape%20Suit/Advanced%20Crew%20Escape%20Suit.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 858408,
+    "metadata": {}
+  },
+  {
+    "id": "advanced-technology-large-aperture-space-telescope-atlast",
+    "name": "Advanced Technology Large-Aperture Space Telescope (ATLAST)",
+    "slug": "advanced-technology-large-aperture-space-telescope-atlast",
+    "category": "telescopes",
+    "tags": [
+      "advanced",
+      "technology",
+      "large",
+      "aperture",
+      "space",
+      "telescope",
+      "atlast"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Advanced Technology Large-Aperture Space Telescope (ATLAST)/Advanced Technology Large-Aperture Space Telescope (ATLAST).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Advanced%20Technology%20Large-Aperture%20Space%20Telescope%20(ATLAST)/Advanced%20Technology%20Large-Aperture%20Space%20Telescope%20(ATLAST).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Advanced%20Technology%20Large-Aperture%20Space%20Telescope%20(ATLAST)/Advanced%20Technology%20Large-Aperture%20Space%20Telescope%20(ATLAST).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 465864,
+    "metadata": {}
+  },
+  {
+    "id": "aeronomy-of-ice-in-the-mesosphere",
+    "name": "Aeronomy of Ice in the Mesosphere",
+    "slug": "aeronomy-of-ice-in-the-mesosphere",
+    "category": "spacecraft",
+    "tags": [
+      "aeronomy",
+      "ice",
+      "the",
+      "mesosphere"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Aeronomy of Ice in the Mesosphere/Aeronomy of Ice in the Mesosphere.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Aeronomy%20of%20Ice%20in%20the%20Mesosphere/Aeronomy%20of%20Ice%20in%20the%20Mesosphere.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Aeronomy%20of%20Ice%20in%20the%20Mesosphere/Aeronomy%20of%20Ice%20in%20the%20Mesosphere.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 323372,
+    "metadata": {}
+  },
+  {
+    "id": "agena-target-vehicle",
+    "name": "Agena Target Vehicle",
+    "slug": "agena-target-vehicle",
+    "category": "spacecraft",
+    "tags": [
+      "agena",
+      "target",
+      "vehicle"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Agena Target Vehicle/Agena Target Vehicle.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Agena%20Target%20Vehicle/Agena%20Target%20Vehicle.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Agena%20Target%20Vehicle/Agena%20Target%20Vehicle.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 1156596,
+    "metadata": {}
+  },
+  {
+    "id": "apollo-lunar-module",
+    "name": "Apollo Lunar Module",
+    "slug": "apollo-lunar-module",
+    "category": "spacecraft",
+    "tags": [
+      "apollo",
+      "lunar",
+      "module"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Apollo Lunar Module/Apollo Lunar Module.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Apollo%20Lunar%20Module/Apollo%20Lunar%20Module.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Apollo%20Lunar%20Module/Apollo%20Lunar%20Module.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 716840,
+    "metadata": {}
+  },
+  {
+    "id": "apollo-soyuz",
+    "name": "Apollo Soyuz",
+    "slug": "apollo-soyuz",
+    "category": "spacecraft",
+    "tags": [
+      "apollo",
+      "soyuz"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Apollo Soyuz/Apollo Soyuz.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Apollo%20Soyuz/Apollo%20Soyuz.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Apollo%20Soyuz/Apollo%20Soyuz.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 952608,
+    "metadata": {}
+  },
+  {
+    "id": "aqua-a",
+    "name": "Aqua (A)",
+    "slug": "aqua-a",
+    "category": "satellites",
+    "tags": [
+      "aqua"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Aqua (A)/Aqua (A).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Aqua%20(A)/Aqua%20(A).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Aqua%20(A)/Aqua%20(A).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 1994440,
+    "metadata": {}
+  },
+  {
+    "id": "aqua-b",
+    "name": "Aqua (B)",
+    "slug": "aqua-b",
+    "category": "satellites",
+    "tags": [
+      "aqua"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Aqua (B)/Aqua (B).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Aqua%20(B)/Aqua%20(B).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Aqua%20(B)/Aqua%20(B).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 1104016,
+    "metadata": {}
+  },
+  {
+    "id": "aqua-c",
+    "name": "Aqua (C)",
+    "slug": "aqua-c",
+    "category": "satellites",
+    "tags": [
+      "aqua"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Aqua (C)/Aqua (C).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Aqua%20(C)/Aqua%20(C).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Aqua%20(C)/Aqua%20(C).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 1321604,
+    "metadata": {}
+  },
+  {
+    "id": "aquarius-a",
+    "name": "Aquarius (A)",
+    "slug": "aquarius-a",
+    "category": "satellites",
+    "tags": [
+      "aquarius"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Aquarius (A)/Aquarius (A).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Aquarius%20(A)/Aquarius%20(A).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Aquarius%20(A)/Aquarius%20(A).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 1137428,
+    "metadata": {}
+  },
+  {
+    "id": "aquarius-b-compact",
+    "name": "Aquarius (B) (compact)",
+    "slug": "aquarius-b-compact",
+    "category": "satellites",
+    "tags": [
+      "aquarius",
+      "compact"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Aquarius (B)/Aquarius (B) (compact).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Aquarius%20(B)/Aquarius%20(B)%20(compact).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Aquarius%20(B)/Aquarius%20(B)%20(compact).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 3797408,
+    "metadata": {}
+  },
+  {
+    "id": "aquarius-b-unfurled",
+    "name": "Aquarius (B) (unfurled)",
+    "slug": "aquarius-b-unfurled",
+    "category": "satellites",
+    "tags": [
+      "aquarius",
+      "unfurled"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Aquarius (B)/Aquarius (B) (unfurled).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Aquarius%20(B)/Aquarius%20(B)%20(unfurled).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Aquarius%20(B)/Aquarius%20(B)%20(unfurled).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 3720696,
+    "metadata": {}
+  },
+  {
+    "id": "ares-1-a",
+    "name": "Ares 1 (A)",
+    "slug": "ares-1-a",
+    "category": "rockets",
+    "tags": [
+      "ares"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Ares 1 (A)/Ares 1 (A).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Ares%201%20(A)/Ares%201%20(A).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Ares%201%20(A)/Ares%201%20(A).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 98128,
+    "metadata": {}
+  },
+  {
+    "id": "ares-1-b",
+    "name": "Ares 1 (B)",
+    "slug": "ares-1-b",
+    "category": "rockets",
+    "tags": [
+      "ares"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Ares 1 (B)/Ares 1 (B).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Ares%201%20(B)/Ares%201%20(B).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Ares%201%20(B)/Ares%201%20(B).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 99136,
+    "metadata": {}
+  },
+  {
+    "id": "argo",
+    "name": "Argo",
+    "slug": "argo",
+    "category": "spacecraft",
+    "tags": [
+      "argo"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Argo/Argo.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Argo/Argo.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Argo/Argo.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 42572,
+    "metadata": {}
+  },
+  {
+    "id": "astronaut",
+    "name": "Astronaut",
+    "slug": "astronaut",
+    "category": "astronaut-equipment",
+    "tags": [
+      "astronaut"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Astronaut/Astronaut.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Astronaut/Astronaut.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Astronaut/Astronaut.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 762988,
+    "metadata": {}
+  },
+  {
+    "id": "astronaut-glove",
+    "name": "Astronaut Glove",
+    "slug": "astronaut-glove",
+    "category": "astronaut-equipment",
+    "tags": [
+      "astronaut",
+      "glove"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Astronaut Glove/Astronaut Glove.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Astronaut%20Glove/Astronaut%20Glove.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Astronaut%20Glove/Astronaut%20Glove.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 661976,
+    "metadata": {}
+  },
+  {
+    "id": "atlas-6-friendship-7",
+    "name": "Atlas 6 (Friendship 7)",
+    "slug": "atlas-6-friendship-7",
+    "category": "rockets",
+    "tags": [
+      "atlas",
+      "friendship"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Atlas 6 (Friendship 7)/Atlas 6 (Friendship 7).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Atlas%206%20(Friendship%207)/Atlas%206%20(Friendship%207).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Atlas%206%20(Friendship%207)/Atlas%206%20(Friendship%207).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 1026724,
+    "metadata": {}
+  },
+  {
+    "id": "atlas-7-aurora-7",
+    "name": "Atlas 7 (Aurora 7)",
+    "slug": "atlas-7-aurora-7",
+    "category": "rockets",
+    "tags": [
+      "atlas",
+      "aurora"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Atlas 7 (Aurora 7)/Atlas 7 (Aurora 7).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Atlas%207%20(Aurora%207)/Atlas%207%20(Aurora%207).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Atlas%207%20(Aurora%207)/Atlas%207%20(Aurora%207).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 1026872,
+    "metadata": {}
+  },
+  {
+    "id": "atlas-9-faith-7",
+    "name": "Atlas 9 (Faith 7)",
+    "slug": "atlas-9-faith-7",
+    "category": "rockets",
+    "tags": [
+      "atlas",
+      "faith"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Atlas 9 (Faith 7)/Atlas 9 (Faith 7).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Atlas%209%20(Faith%207)/Atlas%209%20(Faith%207).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Atlas%209%20(Faith%207)/Atlas%209%20(Faith%207).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 1025820,
+    "metadata": {}
+  },
+  {
+    "id": "atmosphere-space-transition-region-explorer-astre",
+    "name": "Atmosphere-Space Transition Region Explorer (ASTRE)",
+    "slug": "atmosphere-space-transition-region-explorer-astre",
+    "category": "spacecraft",
+    "tags": [
+      "atmosphere",
+      "space",
+      "transition",
+      "region",
+      "explorer",
+      "astre"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Atmosphere-Space Transition Region Explorer (ASTRE)/Atmosphere-Space Transition Region Explorer (ASTRE).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Atmosphere-Space%20Transition%20Region%20Explorer%20(ASTRE)/Atmosphere-Space%20Transition%20Region%20Explorer%20(ASTRE).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Atmosphere-Space%20Transition%20Region%20Explorer%20(ASTRE)/Atmosphere-Space%20Transition%20Region%20Explorer%20(ASTRE).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 583552,
+    "metadata": {}
+  },
+  {
+    "id": "aura-a",
+    "name": "Aura (A)",
+    "slug": "aura-a",
+    "category": "satellites",
+    "tags": [
+      "aura"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Aura (A)/Aura (A).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Aura%20(A)/Aura%20(A).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Aura%20(A)/Aura%20(A).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 476264,
+    "metadata": {}
+  },
+  {
+    "id": "aura-b",
+    "name": "Aura (B)",
+    "slug": "aura-b",
+    "category": "satellites",
+    "tags": [
+      "aura"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Aura (B)/Aura (B).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Aura%20(B)/Aura%20(B).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Aura%20(B)/Aura%20(B).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 1411492,
+    "metadata": {}
+  },
+  {
+    "id": "aura-c",
+    "name": "Aura (C)",
+    "slug": "aura-c",
+    "category": "satellites",
+    "tags": [
+      "aura"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Aura (C)/Aura (C).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Aura%20(C)/Aura%20(C).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Aura%20(C)/Aura%20(C).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 518348,
+    "metadata": {}
+  },
+  {
+    "id": "aura-d",
+    "name": "Aura (D)",
+    "slug": "aura-d",
+    "category": "satellites",
+    "tags": [
+      "aura"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Aura (D)/Aura (D).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Aura%20(D)/Aura%20(D).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Aura%20(D)/Aura%20(D).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 982112,
+    "metadata": {}
+  },
+  {
+    "id": "base-station",
+    "name": "Base Station",
+    "slug": "base-station",
+    "category": "space-stations",
+    "tags": [
+      "base",
+      "station"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Base Station/Base Station.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Base%20Station/Base%20Station.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Base%20Station/Base%20Station.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 21752,
+    "metadata": {}
+  },
+  {
+    "id": "ben-franklin",
+    "name": "Ben Franklin",
+    "slug": "ben-franklin",
+    "category": "spacecraft",
+    "tags": [
+      "ben",
+      "franklin"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Ben Franklin/Ben Franklin.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Ben%20Franklin/Ben%20Franklin.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Ben%20Franklin/Ben%20Franklin.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 13892144,
+    "metadata": {}
+  },
+  {
+    "id": "bp-tauri",
+    "name": "BP Tauri",
+    "slug": "bp-tauri",
+    "category": "planetary-objects",
+    "tags": [
+      "tauri"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/BP Tauri/BP Tauri.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/BP%20Tauri/BP%20Tauri.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/BP%20Tauri/BP%20Tauri.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 4620884,
+    "metadata": {}
+  },
+  {
+    "id": "cassini-assembly",
+    "name": "Cassini Assembly",
+    "slug": "cassini-assembly",
+    "category": "spacecraft",
+    "tags": [
+      "cassini",
+      "assembly"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Cassini Assembly/Cassini Assembly.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Cassini%20Assembly/Cassini%20Assembly.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Cassini%20Assembly/Cassini%20Assembly.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 2388308,
+    "metadata": {}
+  },
+  {
+    "id": "cassini-huygens-a",
+    "name": "Cassini-Huygens (A)",
+    "slug": "cassini-huygens-a",
+    "category": "spacecraft",
+    "tags": [
+      "cassini",
+      "huygens"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Cassini-Huygens (A)/Cassini-Huygens (A).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Cassini-Huygens%20(A)/Cassini-Huygens%20(A).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Cassini-Huygens%20(A)/Cassini-Huygens%20(A).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 1660492,
+    "metadata": {}
+  },
+  {
+    "id": "cassini-huygens-a-without-cassini",
+    "name": "Cassini-Huygens (A) (without Cassini)",
+    "slug": "cassini-huygens-a-without-cassini",
+    "category": "spacecraft",
+    "tags": [
+      "cassini",
+      "huygens",
+      "without"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Cassini-Huygens (A)/Cassini-Huygens (A) (without Cassini).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Cassini-Huygens%20(A)/Cassini-Huygens%20(A)%20(without%20Cassini).glb",
+    "previewUrl": null,
+    "format": [
+      "glb"
+    ],
+    "fileSize": 1014092,
+    "metadata": {}
+  },
+  {
+    "id": "cassini-huygens-a-without-hyugens",
+    "name": "Cassini-Huygens (A) (without Hyugens)",
+    "slug": "cassini-huygens-a-without-hyugens",
+    "category": "spacecraft",
+    "tags": [
+      "cassini",
+      "huygens",
+      "without",
+      "hyugens"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Cassini-Huygens (A)/Cassini-Huygens (A) (without Hyugens).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Cassini-Huygens%20(A)/Cassini-Huygens%20(A)%20(without%20Hyugens).glb",
+    "previewUrl": null,
+    "format": [
+      "glb"
+    ],
+    "fileSize": 1653316,
+    "metadata": {}
+  },
+  {
+    "id": "cassini-huygens-b",
+    "name": "Cassini-Huygens (B)",
+    "slug": "cassini-huygens-b",
+    "category": "spacecraft",
+    "tags": [
+      "cassini",
+      "huygens"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Cassini-Huygens (B)/Cassini-Huygens (B).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Cassini-Huygens%20(B)/Cassini-Huygens%20(B).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Cassini-Huygens%20(B)/Cassini-Huygens%20(B).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 413640,
+    "metadata": {}
+  },
+  {
+    "id": "cassiopeia-a-supernova",
+    "name": "Cassiopeia A Supernova",
+    "slug": "cassiopeia-a-supernova",
+    "category": "planetary-objects",
+    "tags": [
+      "cassiopeia",
+      "supernova"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Cassiopeia A Supernova/Cassiopeia A Supernova.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Cassiopeia%20A%20Supernova/Cassiopeia%20A%20Supernova.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Cassiopeia%20A%20Supernova/Cassiopeia%20A%20Supernova.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 10475620,
+    "metadata": {}
+  },
+  {
+    "id": "cassiopeia-a-supernova-b-2023",
+    "name": "Cassiopeia A Supernova (B) (2023)",
+    "slug": "cassiopeia-a-supernova-b-2023",
+    "category": "planetary-objects",
+    "tags": [
+      "cassiopeia",
+      "supernova",
+      "2023"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Cassiopeia A Supernova (B) (2023)/Cassiopeia A Supernova (B) (2023).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Cassiopeia%20A%20Supernova%20(B)%20(2023)/Cassiopeia%20A%20Supernova%20(B)%20(2023).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Cassiopeia%20A%20Supernova%20(B)%20(2023)/Cassiopeia%20A%20Supernova%20(B)%20(2023).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 15932656,
+    "metadata": {}
+  },
+  {
+    "id": "cassiopeia-a-supernova-c-2025",
+    "name": "Cassiopeia A Supernova (C) (2025)",
+    "slug": "cassiopeia-a-supernova-c-2025",
+    "category": "planetary-objects",
+    "tags": [
+      "cassiopeia",
+      "supernova",
+      "2025"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Cassiopeia A Supernova (C) (2025)/Cassiopeia A Supernova (C) (2025).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Cassiopeia%20A%20Supernova%20(C)%20(2025)/Cassiopeia%20A%20Supernova%20(C)%20(2025).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Cassiopeia%20A%20Supernova%20(C)%20(2025)/Cassiopeia%20A%20Supernova%20(C)%20(2025).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 8502472,
+    "metadata": {}
+  },
+  {
+    "id": "chandra-x-ray-observatory",
+    "name": "Chandra X-ray Observatory",
+    "slug": "chandra-x-ray-observatory",
+    "category": "telescopes",
+    "tags": [
+      "chandra",
+      "ray",
+      "observatory"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Chandra X-ray Observatory/Chandra X-ray Observatory.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Chandra%20X-ray%20Observatory/Chandra%20X-ray%20Observatory.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Chandra%20X-ray%20Observatory/Chandra%20X-ray%20Observatory.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 998500,
+    "metadata": {}
+  },
+  {
+    "id": "clementine",
+    "name": "Clementine",
+    "slug": "clementine",
+    "category": "spacecraft",
+    "tags": [
+      "clementine"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Clementine/Clementine.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Clementine/Clementine.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Clementine/Clementine.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 3025380,
+    "metadata": {}
+  },
+  {
+    "id": "cloud-aerosol-lidar-and-infrared-pathfinder-satellite-calipso",
+    "name": "Cloud-Aerosol Lidar and Infrared Pathfinder Satellite (CALIPSO)",
+    "slug": "cloud-aerosol-lidar-and-infrared-pathfinder-satellite-calipso",
+    "category": "satellites",
+    "tags": [
+      "cloud",
+      "aerosol",
+      "lidar",
+      "and",
+      "infrared",
+      "pathfinder",
+      "satellite",
+      "calipso"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Cloud-Aerosol Lidar and Infrared Pathfinder Satellite (CALIPSO)/Cloud-Aerosol Lidar and Infrared Pathfinder Satellite (CALIPSO).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Cloud-Aerosol%20Lidar%20and%20Infrared%20Pathfinder%20Satellite%20(CALIPSO)/Cloud-Aerosol%20Lidar%20and%20Infrared%20Pathfinder%20Satellite%20(CALIPSO).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Cloud-Aerosol%20Lidar%20and%20Infrared%20Pathfinder%20Satellite%20(CALIPSO)/Cloud-Aerosol%20Lidar%20and%20Infrared%20Pathfinder%20Satellite%20(CALIPSO).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 536084,
+    "metadata": {}
+  },
+  {
+    "id": "cloudsat-a",
+    "name": "CloudSat (A)",
+    "slug": "cloudsat-a",
+    "category": "satellites",
+    "tags": [
+      "cloudsat"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/CloudSat (A)/CloudSat (A).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/CloudSat%20(A)/CloudSat%20(A).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/CloudSat%20(A)/CloudSat%20(A).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 267656,
+    "metadata": {}
+  },
+  {
+    "id": "cloudsat-b",
+    "name": "CloudSat (B)",
+    "slug": "cloudsat-b",
+    "category": "satellites",
+    "tags": [
+      "cloudsat"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/CloudSat (B)/CloudSat (B).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/CloudSat%20(B)/CloudSat%20(B).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/CloudSat%20(B)/CloudSat%20(B).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 623792,
+    "metadata": {}
+  },
+  {
+    "id": "cloudsat-c",
+    "name": "CloudSat (C)",
+    "slug": "cloudsat-c",
+    "category": "satellites",
+    "tags": [
+      "cloudsat"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/CloudSat (C)/CloudSat (C).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/CloudSat%20(C)/CloudSat%20(C).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/CloudSat%20(C)/CloudSat%20(C).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 705152,
+    "metadata": {}
+  },
+  {
+    "id": "cluster",
+    "name": "Cluster",
+    "slug": "cluster",
+    "category": "spacecraft",
+    "tags": [
+      "cluster"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Cluster/Cluster.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Cluster/Cluster.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Cluster/Cluster.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 148336,
+    "metadata": {}
+  },
+  {
+    "id": "cluster-ii",
+    "name": "Cluster II",
+    "slug": "cluster-ii",
+    "category": "spacecraft",
+    "tags": [
+      "cluster"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Cluster II/Cluster II.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Cluster%20II/Cluster%20II.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Cluster%20II/Cluster%20II.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 838556,
+    "metadata": {}
+  },
+  {
+    "id": "communication-and-navigation-outage-forecast-system-cnofs",
+    "name": "Communication and Navigation Outage Forecast System (CNOFS)",
+    "slug": "communication-and-navigation-outage-forecast-system-cnofs",
+    "category": "spacecraft",
+    "tags": [
+      "communication",
+      "and",
+      "navigation",
+      "outage",
+      "forecast",
+      "system",
+      "cnofs"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Communication and Navigation Outage Forecast System (CNOFS)/Communication and Navigation Outage Forecast System (CNOFS).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Communication%20and%20Navigation%20Outage%20Forecast%20System%20(CNOFS)/Communication%20and%20Navigation%20Outage%20Forecast%20System%20(CNOFS).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Communication%20and%20Navigation%20Outage%20Forecast%20System%20(CNOFS)/Communication%20and%20Navigation%20Outage%20Forecast%20System%20(CNOFS).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 1484180,
+    "metadata": {}
+  },
+  {
+    "id": "constellation-x",
+    "name": "Constellation-X",
+    "slug": "constellation-x",
+    "category": "spacecraft",
+    "tags": [
+      "constellation"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Constellation-X/Constellation-X.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Constellation-X/Constellation-X.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Constellation-X/Constellation-X.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 249696,
+    "metadata": {}
+  },
+  {
+    "id": "cosmic-origins-spectrograph",
+    "name": "Cosmic Origins Spectrograph",
+    "slug": "cosmic-origins-spectrograph",
+    "category": "telescopes",
+    "tags": [
+      "cosmic",
+      "origins",
+      "spectrograph"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Cosmic Origins Spectrograph/Cosmic Origins Spectrograph.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Cosmic%20Origins%20Spectrograph/Cosmic%20Origins%20Spectrograph.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Cosmic%20Origins%20Spectrograph/Cosmic%20Origins%20Spectrograph.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 440592,
+    "metadata": {}
+  },
+  {
+    "id": "crab-nebula",
+    "name": "Crab Nebula",
+    "slug": "crab-nebula",
+    "category": "planetary-objects",
+    "tags": [
+      "crab",
+      "nebula"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Printing/Crab Nebula/Crab Nebula.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Printing/Crab%20Nebula/Crab%20Nebula.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Printing/Crab%20Nebula/Crab%20Nebula.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 2209524,
+    "metadata": {}
+  },
+  {
+    "id": "crawler",
+    "name": "Crawler",
+    "slug": "crawler",
+    "category": "ground-systems",
+    "tags": [
+      "crawler"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Crawler/Crawler.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Crawler/Crawler.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Crawler/Crawler.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 1629892,
+    "metadata": {}
+  },
+  {
+    "id": "crew-lock-bag",
+    "name": "Crew Lock Bag",
+    "slug": "crew-lock-bag",
+    "category": "spacecraft",
+    "tags": [
+      "crew",
+      "lock",
+      "bag"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Crew Lock Bag/Crew Lock Bag.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Crew%20Lock%20Bag/Crew%20Lock%20Bag.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Crew%20Lock%20Bag/Crew%20Lock%20Bag.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 609256,
+    "metadata": {}
+  },
+  {
+    "id": "cubesat-1-ru-generic",
+    "name": "CubeSat - 1 RU Generic",
+    "slug": "cubesat-1-ru-generic",
+    "category": "cubesats",
+    "tags": [
+      "cubesat",
+      "generic"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/CubeSat - 1 RU Generic/CubeSat - 1 RU Generic.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/CubeSat%20-%201%20RU%20Generic/CubeSat%20-%201%20RU%20Generic.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/CubeSat%20-%201%20RU%20Generic/CubeSat%20-%201%20RU%20Generic.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 149424,
+    "metadata": {}
+  },
+  {
+    "id": "cubesat-2-ru-generic",
+    "name": "CubeSat - 2 RU Generic",
+    "slug": "cubesat-2-ru-generic",
+    "category": "cubesats",
+    "tags": [
+      "cubesat",
+      "generic"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/CubeSat - 2 RU Generic/CubeSat - 2 RU Generic.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/CubeSat%20-%202%20RU%20Generic/CubeSat%20-%202%20RU%20Generic.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/CubeSat%20-%202%20RU%20Generic/CubeSat%20-%202%20RU%20Generic.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 206108,
+    "metadata": {}
+  },
+  {
+    "id": "cubesat-icecube",
+    "name": "CubeSat - ICECube",
+    "slug": "cubesat-icecube",
+    "category": "cubesats",
+    "tags": [
+      "cubesat",
+      "icecube"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/CubeSat - ICECube/CubeSat - ICECube.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/CubeSat%20-%20ICECube/CubeSat%20-%20ICECube.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/CubeSat%20-%20ICECube/CubeSat%20-%20ICECube.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 309684,
+    "metadata": {}
+  },
+  {
+    "id": "cubesat-mirata",
+    "name": "CubeSat - MiRaTa",
+    "slug": "cubesat-mirata",
+    "category": "cubesats",
+    "tags": [
+      "cubesat",
+      "mirata"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/CubeSat - MiRaTa/CubeSat - MiRaTa.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/CubeSat%20-%20MiRaTa/CubeSat%20-%20MiRaTa.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/CubeSat%20-%20MiRaTa/CubeSat%20-%20MiRaTa.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 444564,
+    "metadata": {}
+  },
+  {
+    "id": "cyclone-global-navigation-satellite-system-cygnss",
+    "name": "Cyclone Global Navigation Satellite System (CYGNSS)",
+    "slug": "cyclone-global-navigation-satellite-system-cygnss",
+    "category": "satellites",
+    "tags": [
+      "cyclone",
+      "global",
+      "navigation",
+      "satellite",
+      "system",
+      "cygnss"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Cyclone Global Navigation Satellite System (CYGNSS)/Cyclone Global Navigation Satellite System (CYGNSS).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Cyclone%20Global%20Navigation%20Satellite%20System%20(CYGNSS)/Cyclone%20Global%20Navigation%20Satellite%20System%20(CYGNSS).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Cyclone%20Global%20Navigation%20Satellite%20System%20(CYGNSS)/Cyclone%20Global%20Navigation%20Satellite%20System%20(CYGNSS).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 1622924,
+    "metadata": {}
+  },
+  {
+    "id": "cygnus-loop-supernova",
+    "name": "Cygnus Loop Supernova",
+    "slug": "cygnus-loop-supernova",
+    "category": "planetary-objects",
+    "tags": [
+      "cygnus",
+      "loop",
+      "supernova"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Cygnus Loop Supernova/Cygnus Loop Supernova.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Cygnus%20Loop%20Supernova/Cygnus%20Loop%20Supernova.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Cygnus%20Loop%20Supernova/Cygnus%20Loop%20Supernova.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 2888172,
+    "metadata": {}
+  },
+  {
+    "id": "dawn",
+    "name": "Dawn",
+    "slug": "dawn",
+    "category": "spacecraft",
+    "tags": [
+      "dawn"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Dawn/Dawn.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Dawn/Dawn.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Dawn/Dawn.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 927020,
+    "metadata": {}
+  },
+  {
+    "id": "deep-impact",
+    "name": "Deep Impact",
+    "slug": "deep-impact",
+    "category": "spacecraft",
+    "tags": [
+      "deep",
+      "impact"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Deep Impact (EPOXI)/Deep Impact.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Deep%20Impact%20(EPOXI)/Deep%20Impact.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Deep%20Impact%20(EPOXI)/Deep%20Impact.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 1537224,
+    "metadata": {}
+  },
+  {
+    "id": "deep-space-1",
+    "name": "Deep Space 1",
+    "slug": "deep-space-1",
+    "category": "spacecraft",
+    "tags": [
+      "deep",
+      "space"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Deep Space 1/Deep Space 1.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Deep%20Space%201/Deep%20Space%201.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Deep%20Space%201/Deep%20Space%201.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 934676,
+    "metadata": {}
+  },
+  {
+    "id": "deep-space-climate-observatory-dscovr-triana",
+    "name": "Deep Space Climate Observatory (DSCOVR) (Triana)",
+    "slug": "deep-space-climate-observatory-dscovr-triana",
+    "category": "spacecraft",
+    "tags": [
+      "deep",
+      "space",
+      "climate",
+      "observatory",
+      "dscovr",
+      "triana"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Deep Space Climate Observatory (DSCOVR) (Triana)/Deep Space Climate Observatory (DSCOVR) (Triana).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Deep%20Space%20Climate%20Observatory%20(DSCOVR)%20(Triana)/Deep%20Space%20Climate%20Observatory%20(DSCOVR)%20(Triana).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Deep%20Space%20Climate%20Observatory%20(DSCOVR)%20(Triana)/Deep%20Space%20Climate%20Observatory%20(DSCOVR)%20(Triana).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 112488,
+    "metadata": {}
+  },
+  {
+    "id": "deep-space-network-34-meter",
+    "name": "Deep Space Network 34-meter",
+    "slug": "deep-space-network-34-meter",
+    "category": "spacecraft",
+    "tags": [
+      "deep",
+      "space",
+      "network",
+      "meter"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Deep Space Network 34-meter/Deep Space Network 34-meter.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Deep%20Space%20Network%2034-meter/Deep%20Space%20Network%2034-meter.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Deep%20Space%20Network%2034-meter/Deep%20Space%20Network%2034-meter.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 2903116,
+    "metadata": {}
+  },
+  {
+    "id": "deep-space-network-70-meter",
+    "name": "Deep Space Network 70-meter",
+    "slug": "deep-space-network-70-meter",
+    "category": "spacecraft",
+    "tags": [
+      "deep",
+      "space",
+      "network",
+      "meter"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Deep Space Network 70-meter/Deep Space Network 70-meter.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Deep%20Space%20Network%2070-meter/Deep%20Space%20Network%2070-meter.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Deep%20Space%20Network%2070-meter/Deep%20Space%20Network%2070-meter.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 1867668,
+    "metadata": {}
+  },
+  {
+    "id": "deformation-ecosystem-structure-and-dynamics-of-ice-desdyni",
+    "name": "Deformation, Ecosystem Structure, and Dynamics of Ice (DESDynI)",
+    "slug": "deformation-ecosystem-structure-and-dynamics-of-ice-desdyni",
+    "category": "spacecraft",
+    "tags": [
+      "deformation,",
+      "ecosystem",
+      "structure,",
+      "and",
+      "dynamics",
+      "ice",
+      "desdyni"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Deformation, Ecosystem Structure, and Dynamics of Ice (DESDynI)/Deformation, Ecosystem Structure, and Dynamics of Ice (DESDynI).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Deformation%2C%20Ecosystem%20Structure%2C%20and%20Dynamics%20of%20Ice%20(DESDynI)/Deformation%2C%20Ecosystem%20Structure%2C%20and%20Dynamics%20of%20Ice%20(DESDynI).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Deformation%2C%20Ecosystem%20Structure%2C%20and%20Dynamics%20of%20Ice%20(DESDynI)/Deformation%2C%20Ecosystem%20Structure%2C%20and%20Dynamics%20of%20Ice%20(DESDynI).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 449352,
+    "metadata": {}
+  },
+  {
+    "id": "earth-observing-1-eo-1",
+    "name": "Earth Observing-1 (EO-1)",
+    "slug": "earth-observing-1-eo-1",
+    "category": "planetary-objects",
+    "tags": [
+      "earth",
+      "observing"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Earth Observing-1 (EO-1)/Earth Observing-1 (EO-1).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Earth%20Observing-1%20(EO-1)/Earth%20Observing-1%20(EO-1).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Earth%20Observing-1%20(EO-1)/Earth%20Observing-1%20(EO-1).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 224580,
+    "metadata": {}
+  },
+  {
+    "id": "epoxi",
+    "name": "EPOXI",
+    "slug": "epoxi",
+    "category": "spacecraft",
+    "tags": [
+      "epoxi"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Deep Impact (EPOXI)/EPOXI.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Deep%20Impact%20(EPOXI)/EPOXI.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Deep%20Impact%20(EPOXI)/EPOXI.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 2870776,
+    "metadata": {}
+  },
+  {
+    "id": "epoxi-without-impactor",
+    "name": "EPOXI (without impactor)",
+    "slug": "epoxi-without-impactor",
+    "category": "spacecraft",
+    "tags": [
+      "epoxi",
+      "without",
+      "impactor"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Deep Impact (EPOXI)/EPOXI (without impactor).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Deep%20Impact%20(EPOXI)/EPOXI%20(without%20impactor).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Deep%20Impact%20(EPOXI)/EPOXI%20(without%20impactor).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 2581204,
+    "metadata": {}
+  },
+  {
+    "id": "esas-crew-module",
+    "name": "ESAS Crew Module",
+    "slug": "esas-crew-module",
+    "category": "spacecraft",
+    "tags": [
+      "esas",
+      "crew",
+      "module"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/ESAS Crew Module/ESAS Crew Module.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/ESAS%20Crew%20Module/ESAS%20Crew%20Module.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/ESAS%20Crew%20Module/ESAS%20Crew%20Module.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 7664,
+    "metadata": {}
+  },
+  {
+    "id": "eva-suit",
+    "name": "EVA suit",
+    "slug": "eva-suit",
+    "category": "astronaut-equipment",
+    "tags": [
+      "eva",
+      "suit"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Space Shuttle Parts/EVA suit.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Space%20Shuttle%20Parts/EVA%20suit.glb",
+    "previewUrl": null,
+    "format": [
+      "glb"
+    ],
+    "fileSize": 715864,
+    "metadata": {}
+  },
+  {
+    "id": "explorer-jupiter-c-rocket",
+    "name": "Explorer Jupiter-C Rocket",
+    "slug": "explorer-jupiter-c-rocket",
+    "category": "rockets",
+    "tags": [
+      "explorer",
+      "jupiter",
+      "rocket"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Explorer Jupiter-C Rocket/Explorer Jupiter-C Rocket.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Explorer%20Jupiter-C%20Rocket/Explorer%20Jupiter-C%20Rocket.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Explorer%20Jupiter-C%20Rocket/Explorer%20Jupiter-C%20Rocket.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 149372,
+    "metadata": {}
+  },
+  {
+    "id": "external-tank",
+    "name": "External tank",
+    "slug": "external-tank",
+    "category": "spacecraft",
+    "tags": [
+      "external",
+      "tank"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Space Shuttle Parts/External tank.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Space%20Shuttle%20Parts/External%20tank.glb",
+    "previewUrl": null,
+    "format": [
+      "glb"
+    ],
+    "fileSize": 848352,
+    "metadata": {}
+  },
+  {
+    "id": "extravehicular-mobility-unit",
+    "name": "Extravehicular Mobility Unit",
+    "slug": "extravehicular-mobility-unit",
+    "category": "spacecraft",
+    "tags": [
+      "extravehicular",
+      "mobility",
+      "unit"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Extravehicular Mobility Unit/Extravehicular Mobility Unit.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Extravehicular%20Mobility%20Unit/Extravehicular%20Mobility%20Unit.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Extravehicular%20Mobility%20Unit/Extravehicular%20Mobility%20Unit.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 3448904,
+    "metadata": {}
+  },
+  {
+    "id": "far-ultraviolet-spectroscopic-explorer",
+    "name": "Far Ultraviolet Spectroscopic Explorer",
+    "slug": "far-ultraviolet-spectroscopic-explorer",
+    "category": "spacecraft",
+    "tags": [
+      "far",
+      "ultraviolet",
+      "spectroscopic",
+      "explorer"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Far Ultraviolet Spectroscopic Explorer/Far Ultraviolet Spectroscopic Explorer.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Far%20Ultraviolet%20Spectroscopic%20Explorer/Far%20Ultraviolet%20Spectroscopic%20Explorer.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Far%20Ultraviolet%20Spectroscopic%20Explorer/Far%20Ultraviolet%20Spectroscopic%20Explorer.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 236704,
+    "metadata": {}
+  },
+  {
+    "id": "fermi-gamma-ray-large-area-space-telescope",
+    "name": "Fermi Gamma-ray Large Area Space Telescope",
+    "slug": "fermi-gamma-ray-large-area-space-telescope",
+    "category": "telescopes",
+    "tags": [
+      "fermi",
+      "gamma",
+      "ray",
+      "large",
+      "area",
+      "space",
+      "telescope"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Fermi Gamma-ray Large Area Space Telescope/Fermi Gamma-ray Large Area Space Telescope.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Fermi%20Gamma-ray%20Large%20Area%20Space%20Telescope/Fermi%20Gamma-ray%20Large%20Area%20Space%20Telescope.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Fermi%20Gamma-ray%20Large%20Area%20Space%20Telescope/Fermi%20Gamma-ray%20Large%20Area%20Space%20Telescope.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 1379016,
+    "metadata": {}
+  },
+  {
+    "id": "firefly",
+    "name": "Firefly",
+    "slug": "firefly",
+    "category": "spacecraft",
+    "tags": [
+      "firefly"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Firefly/Firefly.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Firefly/Firefly.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Firefly/Firefly.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 293692,
+    "metadata": {}
+  },
+  {
+    "id": "flight-system-support",
+    "name": "Flight System Support",
+    "slug": "flight-system-support",
+    "category": "spacecraft",
+    "tags": [
+      "flight",
+      "system",
+      "support"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Flight System Support/Flight System Support.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Flight%20System%20Support/Flight%20System%20Support.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Flight%20System%20Support/Flight%20System%20Support.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 443068,
+    "metadata": {}
+  },
+  {
+    "id": "g292-0-1-8-supernova-remnant",
+    "name": "G292.0+1.8 Supernova Remnant",
+    "slug": "g292-0-1-8-supernova-remnant",
+    "category": "planetary-objects",
+    "tags": [
+      "g292.0+1.8",
+      "supernova",
+      "remnant"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/G292.0+1.8 Supernova Remnant/G292.0+1.8 Supernova Remnant.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/G292.0%2B1.8%20Supernova%20Remnant/G292.0%2B1.8%20Supernova%20Remnant.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/G292.0%2B1.8%20Supernova%20Remnant/G292.0%2B1.8%20Supernova%20Remnant.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 1200552,
+    "metadata": {}
+  },
+  {
+    "id": "galileo",
+    "name": "Galileo",
+    "slug": "galileo",
+    "category": "spacecraft",
+    "tags": [
+      "galileo"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Galileo/Galileo.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Galileo/Galileo.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Galileo/Galileo.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 248532,
+    "metadata": {}
+  },
+  {
+    "id": "gamma-ray-observatory",
+    "name": "Gamma Ray Observatory",
+    "slug": "gamma-ray-observatory",
+    "category": "spacecraft",
+    "tags": [
+      "gamma",
+      "ray",
+      "observatory"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Gamma Ray Observatory/Gamma Ray Observatory.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Gamma%20Ray%20Observatory/Gamma%20Ray%20Observatory.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Gamma%20Ray%20Observatory/Gamma%20Ray%20Observatory.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 65368,
+    "metadata": {}
+  },
+  {
+    "id": "gantry",
+    "name": "Gantry",
+    "slug": "gantry",
+    "category": "spacecraft",
+    "tags": [
+      "gantry"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Gantry/Gantry.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Gantry/Gantry.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Gantry/Gantry.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 1386348,
+    "metadata": {}
+  },
+  {
+    "id": "gateway-core",
+    "name": "Gateway Core",
+    "slug": "gateway-core",
+    "category": "space-stations",
+    "tags": [
+      "gateway",
+      "core"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Gateway/Gateway Core.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Gateway/Gateway%20Core.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Gateway/Gateway%20Core.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 66214552,
+    "metadata": {}
+  },
+  {
+    "id": "gemini",
+    "name": "Gemini",
+    "slug": "gemini",
+    "category": "spacecraft",
+    "tags": [
+      "gemini"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Gemini/Gemini.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Gemini/Gemini.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Gemini/Gemini.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 1387812,
+    "metadata": {}
+  },
+  {
+    "id": "gemini-spacesuit",
+    "name": "Gemini Spacesuit",
+    "slug": "gemini-spacesuit",
+    "category": "astronaut-equipment",
+    "tags": [
+      "gemini",
+      "spacesuit"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Gemini Spacesuit/Gemini Spacesuit.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Gemini%20Spacesuit/Gemini%20Spacesuit.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Gemini%20Spacesuit/Gemini%20Spacesuit.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 2876516,
+    "metadata": {}
+  },
+  {
+    "id": "geostationary-operational-environmental-satellites",
+    "name": "Geostationary Operational Environmental Satellites",
+    "slug": "geostationary-operational-environmental-satellites",
+    "category": "space-stations",
+    "tags": [
+      "geostationary",
+      "operational",
+      "environmental",
+      "satellites"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Geostationary Operational Environmental Satellites/Geostationary Operational Environmental Satellites.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Geostationary%20Operational%20Environmental%20Satellites/Geostationary%20Operational%20Environmental%20Satellites.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Geostationary%20Operational%20Environmental%20Satellites/Geostationary%20Operational%20Environmental%20Satellites.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 335620,
+    "metadata": {}
+  },
+  {
+    "id": "geotailsat",
+    "name": "GeoTailSAT",
+    "slug": "geotailsat",
+    "category": "spacecraft",
+    "tags": [
+      "geotailsat"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/GeoTailSAT/GeoTailSAT.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/GeoTailSAT/GeoTailSAT.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/GeoTailSAT/GeoTailSAT.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 91504,
+    "metadata": {}
+  },
+  {
+    "id": "global-hawk",
+    "name": "Global Hawk",
+    "slug": "global-hawk",
+    "category": "spacecraft",
+    "tags": [
+      "global",
+      "hawk"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Global Hawk/Global Hawk.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Global%20Hawk/Global%20Hawk.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Global%20Hawk/Global%20Hawk.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 1184092,
+    "metadata": {}
+  },
+  {
+    "id": "global-precipitation-measurement",
+    "name": "Global Precipitation Measurement",
+    "slug": "global-precipitation-measurement",
+    "category": "spacecraft",
+    "tags": [
+      "global",
+      "precipitation",
+      "measurement"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Global Precipitation Measurement/Global Precipitation Measurement.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Global%20Precipitation%20Measurement/Global%20Precipitation%20Measurement.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Global%20Precipitation%20Measurement/Global%20Precipitation%20Measurement.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 2257008,
+    "metadata": {}
+  },
+  {
+    "id": "gravity-recovery-and-climate-experiment-grace-a",
+    "name": "Gravity Recovery and Climate Experiment (GRACE) (A)",
+    "slug": "gravity-recovery-and-climate-experiment-grace-a",
+    "category": "spacecraft",
+    "tags": [
+      "gravity",
+      "recovery",
+      "and",
+      "climate",
+      "experiment",
+      "grace"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Gravity Recovery and Climate Experiment (GRACE) (A)/Gravity Recovery and Climate Experiment (GRACE) (A).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Gravity%20Recovery%20and%20Climate%20Experiment%20(GRACE)%20(A)/Gravity%20Recovery%20and%20Climate%20Experiment%20(GRACE)%20(A).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Gravity%20Recovery%20and%20Climate%20Experiment%20(GRACE)%20(A)/Gravity%20Recovery%20and%20Climate%20Experiment%20(GRACE)%20(A).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 22620,
+    "metadata": {}
+  },
+  {
+    "id": "gravity-recovery-and-climate-experiment-grace-b",
+    "name": "Gravity Recovery and Climate Experiment (GRACE) (B)",
+    "slug": "gravity-recovery-and-climate-experiment-grace-b",
+    "category": "spacecraft",
+    "tags": [
+      "gravity",
+      "recovery",
+      "and",
+      "climate",
+      "experiment",
+      "grace"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Gravity Recovery and Climate Experiment (GRACE) (B)/Gravity Recovery and Climate Experiment (GRACE) (B).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Gravity%20Recovery%20and%20Climate%20Experiment%20(GRACE)%20(B)/Gravity%20Recovery%20and%20Climate%20Experiment%20(GRACE)%20(B).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Gravity%20Recovery%20and%20Climate%20Experiment%20(GRACE)%20(B)/Gravity%20Recovery%20and%20Climate%20Experiment%20(GRACE)%20(B).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 1777600,
+    "metadata": {}
+  },
+  {
+    "id": "grease-gun",
+    "name": "Grease gun",
+    "slug": "grease-gun",
+    "category": "spacecraft",
+    "tags": [
+      "grease",
+      "gun"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Grease Gun/Grease gun.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Grease%20Gun/Grease%20gun.glb",
+    "previewUrl": null,
+    "format": [
+      "glb"
+    ],
+    "fileSize": 48596,
+    "metadata": {}
+  },
+  {
+    "id": "habitat-demonstration-unit-part-1",
+    "name": "Habitat Demonstration Unit (part 1)",
+    "slug": "habitat-demonstration-unit-part-1",
+    "category": "space-stations",
+    "tags": [
+      "habitat",
+      "demonstration",
+      "unit",
+      "part"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Habitat Demonstration Unit/Habitat Demonstration Unit (part 1).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Habitat%20Demonstration%20Unit/Habitat%20Demonstration%20Unit%20(part%201).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Habitat%20Demonstration%20Unit/Habitat%20Demonstration%20Unit%20(part%201).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 516748,
+    "metadata": {}
+  },
+  {
+    "id": "habitat-demonstration-unit-part-2",
+    "name": "Habitat Demonstration Unit (part 2)",
+    "slug": "habitat-demonstration-unit-part-2",
+    "category": "space-stations",
+    "tags": [
+      "habitat",
+      "demonstration",
+      "unit",
+      "part"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Habitat Demonstration Unit/Habitat Demonstration Unit (part 2).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Habitat%20Demonstration%20Unit/Habitat%20Demonstration%20Unit%20(part%202).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Habitat%20Demonstration%20Unit/Habitat%20Demonstration%20Unit%20(part%202).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 710988,
+    "metadata": {}
+  },
+  {
+    "id": "hammer",
+    "name": "Hammer",
+    "slug": "hammer",
+    "category": "spacecraft",
+    "tags": [
+      "hammer"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Hammer/Hammer.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Hammer/Hammer.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Hammer/Hammer.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 10912,
+    "metadata": {}
+  },
+  {
+    "id": "headquarters-building",
+    "name": "Headquarters Building",
+    "slug": "headquarters-building",
+    "category": "spacecraft",
+    "tags": [
+      "headquarters",
+      "building"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Headquarters Building/Headquarters Building.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Headquarters%20Building/Headquarters%20Building.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Headquarters%20Building/Headquarters%20Building.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 212508,
+    "metadata": {}
+  },
+  {
+    "id": "helmet",
+    "name": "Helmet",
+    "slug": "helmet",
+    "category": "astronaut-equipment",
+    "tags": [
+      "helmet"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Helmet/Helmet.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Helmet/Helmet.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Helmet/Helmet.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 232496,
+    "metadata": {}
+  },
+  {
+    "id": "hessi-rhessi",
+    "name": "HESSI-RHESSI",
+    "slug": "hessi-rhessi",
+    "category": "spacecraft",
+    "tags": [
+      "hessi",
+      "rhessi"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/HESSI-RHESSI/HESSI-RHESSI.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/HESSI-RHESSI/HESSI-RHESSI.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/HESSI-RHESSI/HESSI-RHESSI.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 230764,
+    "metadata": {}
+  },
+  {
+    "id": "high-energy-transient-explorer",
+    "name": "High Energy Transient Explorer",
+    "slug": "high-energy-transient-explorer",
+    "category": "spacecraft",
+    "tags": [
+      "high",
+      "energy",
+      "transient",
+      "explorer"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/High Energy Transient Explorer/High Energy Transient Explorer.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/High%20Energy%20Transient%20Explorer/High%20Energy%20Transient%20Explorer.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/High%20Energy%20Transient%20Explorer/High%20Energy%20Transient%20Explorer.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 61836,
+    "metadata": {}
+  },
+  {
+    "id": "hinode-solar-b",
+    "name": "Hinode (Solar-B)",
+    "slug": "hinode-solar-b",
+    "category": "spacecraft",
+    "tags": [
+      "hinode",
+      "solar"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Hinode (Solar-B)/Hinode (Solar-B).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Hinode%20(Solar-B)/Hinode%20(Solar-B).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Hinode%20(Solar-B)/Hinode%20(Solar-B).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 276248,
+    "metadata": {}
+  },
+  {
+    "id": "hubble-space-telescope-a",
+    "name": "Hubble Space Telescope (A)",
+    "slug": "hubble-space-telescope-a",
+    "category": "telescopes",
+    "tags": [
+      "hubble",
+      "space",
+      "telescope"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Hubble Space Telescope (A)/Hubble Space Telescope (A).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Hubble%20Space%20Telescope%20(A)/Hubble%20Space%20Telescope%20(A).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Hubble%20Space%20Telescope%20(A)/Hubble%20Space%20Telescope%20(A).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 1694988,
+    "metadata": {}
+  },
+  {
+    "id": "hubble-space-telescope-b",
+    "name": "Hubble Space Telescope (B)",
+    "slug": "hubble-space-telescope-b",
+    "category": "telescopes",
+    "tags": [
+      "hubble",
+      "space",
+      "telescope"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Hubble Space Telescope (B)/Hubble Space Telescope (B).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Hubble%20Space%20Telescope%20(B)/Hubble%20Space%20Telescope%20(B).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Hubble%20Space%20Telescope%20(B)/Hubble%20Space%20Telescope%20(B).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 5140096,
+    "metadata": {}
+  },
+  {
+    "id": "ice-clouds-and-land-elevation-satellite-icesat-a",
+    "name": "Ice, Clouds, and Land Elevation Satellite (ICESat) (A)",
+    "slug": "ice-clouds-and-land-elevation-satellite-icesat-a",
+    "category": "astronaut-equipment",
+    "tags": [
+      "ice,",
+      "clouds,",
+      "and",
+      "land",
+      "elevation",
+      "satellite",
+      "icesat"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Ice, Clouds, and Land Elevation Satellite (ICESat) (A)/Ice, Clouds, and Land Elevation Satellite (ICESat) (A).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Ice%2C%20Clouds%2C%20and%20Land%20Elevation%20Satellite%20(ICESat)%20(A)/Ice%2C%20Clouds%2C%20and%20Land%20Elevation%20Satellite%20(ICESat)%20(A).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Ice%2C%20Clouds%2C%20and%20Land%20Elevation%20Satellite%20(ICESat)%20(A)/Ice%2C%20Clouds%2C%20and%20Land%20Elevation%20Satellite%20(ICESat)%20(A).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 1151936,
+    "metadata": {}
+  },
+  {
+    "id": "ice-clouds-and-land-elevation-satellite-icesat-b",
+    "name": "Ice, Clouds, and Land Elevation Satellite (ICESat) (B)",
+    "slug": "ice-clouds-and-land-elevation-satellite-icesat-b",
+    "category": "astronaut-equipment",
+    "tags": [
+      "ice,",
+      "clouds,",
+      "and",
+      "land",
+      "elevation",
+      "satellite",
+      "icesat"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Ice, Clouds, and Land Elevation Satellite (ICESat) (B)/Ice, Clouds, and Land Elevation Satellite (ICESat) (B).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Ice%2C%20Clouds%2C%20and%20Land%20Elevation%20Satellite%20(ICESat)%20(B)/Ice%2C%20Clouds%2C%20and%20Land%20Elevation%20Satellite%20(ICESat)%20(B).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Ice%2C%20Clouds%2C%20and%20Land%20Elevation%20Satellite%20(ICESat)%20(B)/Ice%2C%20Clouds%2C%20and%20Land%20Elevation%20Satellite%20(ICESat)%20(B).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 2848564,
+    "metadata": {}
+  },
+  {
+    "id": "ice-clouds-and-land-elevation-satellite-2-icesat-2-a",
+    "name": "Ice, Clouds, and Land Elevation Satellite-2 (ICESat-2) (A)",
+    "slug": "ice-clouds-and-land-elevation-satellite-2-icesat-2-a",
+    "category": "astronaut-equipment",
+    "tags": [
+      "ice,",
+      "clouds,",
+      "and",
+      "land",
+      "elevation",
+      "satellite",
+      "icesat"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Ice, Clouds, and Land Elevation Satellite-2 (ICESat-2) (A)/Ice, Clouds, and Land Elevation Satellite-2 (ICESat-2) (A).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Ice%2C%20Clouds%2C%20and%20Land%20Elevation%20Satellite-2%20(ICESat-2)%20(A)/Ice%2C%20Clouds%2C%20and%20Land%20Elevation%20Satellite-2%20(ICESat-2)%20(A).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Ice%2C%20Clouds%2C%20and%20Land%20Elevation%20Satellite-2%20(ICESat-2)%20(A)/Ice%2C%20Clouds%2C%20and%20Land%20Elevation%20Satellite-2%20(ICESat-2)%20(A).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 1499504,
+    "metadata": {}
+  },
+  {
+    "id": "ice-clouds-and-land-elevation-satellite-2-icesat-2-b",
+    "name": "Ice, Clouds, and Land Elevation Satellite-2 (ICESat-2) (B)",
+    "slug": "ice-clouds-and-land-elevation-satellite-2-icesat-2-b",
+    "category": "astronaut-equipment",
+    "tags": [
+      "ice,",
+      "clouds,",
+      "and",
+      "land",
+      "elevation",
+      "satellite",
+      "icesat"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Ice, Clouds, and Land Elevation Satellite-2 (ICESat-2) (B)/Ice, Clouds, and Land Elevation Satellite-2 (ICESat-2) (B).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Ice%2C%20Clouds%2C%20and%20Land%20Elevation%20Satellite-2%20(ICESat-2)%20(B)/Ice%2C%20Clouds%2C%20and%20Land%20Elevation%20Satellite-2%20(ICESat-2)%20(B).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Ice%2C%20Clouds%2C%20and%20Land%20Elevation%20Satellite-2%20(ICESat-2)%20(B)/Ice%2C%20Clouds%2C%20and%20Land%20Elevation%20Satellite-2%20(ICESat-2)%20(B).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 2000752,
+    "metadata": {}
+  },
+  {
+    "id": "ice-clouds-and-land-elevation-satellite-2-icesat-2-c",
+    "name": "Ice, Clouds, and Land Elevation Satellite-2 (ICESat-2) (C)",
+    "slug": "ice-clouds-and-land-elevation-satellite-2-icesat-2-c",
+    "category": "astronaut-equipment",
+    "tags": [
+      "ice,",
+      "clouds,",
+      "and",
+      "land",
+      "elevation",
+      "satellite",
+      "icesat"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Ice, Clouds, and Land Elevation Satellite-2 (ICESat-2) (C)/Ice, Clouds, and Land Elevation Satellite-2 (ICESat-2) (C).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Ice%2C%20Clouds%2C%20and%20Land%20Elevation%20Satellite-2%20(ICESat-2)%20(C)/Ice%2C%20Clouds%2C%20and%20Land%20Elevation%20Satellite-2%20(ICESat-2)%20(C).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Ice%2C%20Clouds%2C%20and%20Land%20Elevation%20Satellite-2%20(ICESat-2)%20(C)/Ice%2C%20Clouds%2C%20and%20Land%20Elevation%20Satellite-2%20(ICESat-2)%20(C).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 9059632,
+    "metadata": {}
+  },
+  {
+    "id": "infrared-camera",
+    "name": "Infrared Camera",
+    "slug": "infrared-camera",
+    "category": "instruments",
+    "tags": [
+      "infrared",
+      "camera"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Infrared Camera/Infrared Camera.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Infrared%20Camera/Infrared%20Camera.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Infrared%20Camera/Infrared%20Camera.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 145640,
+    "metadata": {}
+  },
+  {
+    "id": "ingenuity-mars-helicopter",
+    "name": "Ingenuity Mars Helicopter",
+    "slug": "ingenuity-mars-helicopter",
+    "category": "planetary-objects",
+    "tags": [
+      "ingenuity",
+      "mars",
+      "helicopter"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Ingenuity Mars Helicopter/Ingenuity Mars Helicopter.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Ingenuity%20Mars%20Helicopter/Ingenuity%20Mars%20Helicopter.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Ingenuity%20Mars%20Helicopter/Ingenuity%20Mars%20Helicopter.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 2019408,
+    "metadata": {}
+  },
+  {
+    "id": "insight-cruise-lander-arm-deployed",
+    "name": "InSight Cruise Lander (arm deployed)",
+    "slug": "insight-cruise-lander-arm-deployed",
+    "category": "spacecraft",
+    "tags": [
+      "insight",
+      "cruise",
+      "lander",
+      "arm",
+      "deployed"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/InSight Cruise Lander/InSight Cruise Lander (arm deployed).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/InSight%20Cruise%20Lander/InSight%20Cruise%20Lander%20(arm%20deployed).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/InSight%20Cruise%20Lander/InSight%20Cruise%20Lander%20(arm%20deployed).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 3949036,
+    "metadata": {}
+  },
+  {
+    "id": "insight-cruise-lander-panels-deployed",
+    "name": "InSight Cruise Lander (panels deployed)",
+    "slug": "insight-cruise-lander-panels-deployed",
+    "category": "spacecraft",
+    "tags": [
+      "insight",
+      "cruise",
+      "lander",
+      "panels",
+      "deployed"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/InSight Cruise Lander/InSight Cruise Lander (panels deployed).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/InSight%20Cruise%20Lander/InSight%20Cruise%20Lander%20(panels%20deployed).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/InSight%20Cruise%20Lander/InSight%20Cruise%20Lander%20(panels%20deployed).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 3948936,
+    "metadata": {}
+  },
+  {
+    "id": "insight-cruise-lander-panels-stowed",
+    "name": "InSight Cruise Lander (panels stowed)",
+    "slug": "insight-cruise-lander-panels-stowed",
+    "category": "spacecraft",
+    "tags": [
+      "insight",
+      "cruise",
+      "lander",
+      "panels",
+      "stowed"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/InSight Cruise Lander/InSight Cruise Lander (panels stowed).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/InSight%20Cruise%20Lander/InSight%20Cruise%20Lander%20(panels%20stowed).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/InSight%20Cruise%20Lander/InSight%20Cruise%20Lander%20(panels%20stowed).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 3727616,
+    "metadata": {}
+  },
+  {
+    "id": "insight-cruise-lander-stowed",
+    "name": "InSight Cruise Lander (stowed)",
+    "slug": "insight-cruise-lander-stowed",
+    "category": "spacecraft",
+    "tags": [
+      "insight",
+      "cruise",
+      "lander",
+      "stowed"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/InSight Cruise Lander/InSight Cruise Lander (stowed).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/InSight%20Cruise%20Lander/InSight%20Cruise%20Lander%20(stowed).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/InSight%20Cruise%20Lander/InSight%20Cruise%20Lander%20(stowed).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 3990572,
+    "metadata": {}
+  },
+  {
+    "id": "international-space-station-iss",
+    "name": "International Space Station (ISS)",
+    "slug": "international-space-station-iss",
+    "category": "space-stations",
+    "tags": [
+      "international",
+      "space",
+      "station",
+      "iss"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/International Space Station (ISS) (D) (IGOAL)/International Space Station (ISS).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/International%20Space%20Station%20(ISS)%20(D)%20(IGOAL)/International%20Space%20Station%20(ISS).glb",
+    "previewUrl": null,
+    "format": [
+      "glb"
+    ],
+    "fileSize": 95875648,
+    "metadata": {}
+  },
+  {
+    "id": "international-space-station-iss-a",
+    "name": "International Space Station (ISS) (A)",
+    "slug": "international-space-station-iss-a",
+    "category": "space-stations",
+    "tags": [
+      "international",
+      "space",
+      "station",
+      "iss"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/International Space Station (ISS) (A)/International Space Station (ISS) (A).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/International%20Space%20Station%20(ISS)%20(A)/International%20Space%20Station%20(ISS)%20(A).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/International%20Space%20Station%20(ISS)%20(A)/International%20Space%20Station%20(ISS)%20(A).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 39708,
+    "metadata": {}
+  },
+  {
+    "id": "international-space-station-iss-b",
+    "name": "International Space Station (ISS) (B)",
+    "slug": "international-space-station-iss-b",
+    "category": "space-stations",
+    "tags": [
+      "international",
+      "space",
+      "station",
+      "iss"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/International Space Station (ISS) (B)/International Space Station (ISS) (B).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/International%20Space%20Station%20(ISS)%20(B)/International%20Space%20Station%20(ISS)%20(B).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/International%20Space%20Station%20(ISS)%20(B)/International%20Space%20Station%20(ISS)%20(B).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 476992,
+    "metadata": {}
+  },
+  {
+    "id": "international-x-ray-observatory",
+    "name": "International X-ray Observatory",
+    "slug": "international-x-ray-observatory",
+    "category": "spacecraft",
+    "tags": [
+      "international",
+      "ray",
+      "observatory"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/International X-ray Observatory/International X-ray Observatory.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/International%20X-ray%20Observatory/International%20X-ray%20Observatory.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/International%20X-ray%20Observatory/International%20X-ray%20Observatory.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 1224540,
+    "metadata": {}
+  },
+  {
+    "id": "interstellar-boundary-explorer-ibex",
+    "name": "Interstellar Boundary Explorer (IBEX)",
+    "slug": "interstellar-boundary-explorer-ibex",
+    "category": "spacecraft",
+    "tags": [
+      "interstellar",
+      "boundary",
+      "explorer",
+      "ibex"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Interstellar Boundary Explorer (IBEX)/Interstellar Boundary Explorer (IBEX).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Interstellar%20Boundary%20Explorer%20(IBEX)/Interstellar%20Boundary%20Explorer%20(IBEX).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Interstellar%20Boundary%20Explorer%20(IBEX)/Interstellar%20Boundary%20Explorer%20(IBEX).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 1306616,
+    "metadata": {}
+  },
+  {
+    "id": "ionospheric-connection-explorer-icon",
+    "name": "Ionospheric Connection Explorer (ICON)",
+    "slug": "ionospheric-connection-explorer-icon",
+    "category": "spacecraft",
+    "tags": [
+      "ionospheric",
+      "connection",
+      "explorer",
+      "icon"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Ionospheric Connection Explorer (ICON)/Ionospheric Connection Explorer (ICON).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Ionospheric%20Connection%20Explorer%20(ICON)/Ionospheric%20Connection%20Explorer%20(ICON).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Ionospheric%20Connection%20Explorer%20(ICON)/Ionospheric%20Connection%20Explorer%20(ICON).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 2619708,
+    "metadata": {}
+  },
+  {
+    "id": "james-webb-space-telescope-a",
+    "name": "James Webb Space Telescope (A)",
+    "slug": "james-webb-space-telescope-a",
+    "category": "telescopes",
+    "tags": [
+      "james",
+      "webb",
+      "space",
+      "telescope"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/James Webb Space Telescope (A)/James Webb Space Telescope (A).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/James%20Webb%20Space%20Telescope%20(A)/James%20Webb%20Space%20Telescope%20(A).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/James%20Webb%20Space%20Telescope%20(A)/James%20Webb%20Space%20Telescope%20(A).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 4710016,
+    "metadata": {}
+  },
+  {
+    "id": "james-webb-space-telescope-b",
+    "name": "James Webb Space Telescope (B)",
+    "slug": "james-webb-space-telescope-b",
+    "category": "telescopes",
+    "tags": [
+      "james",
+      "webb",
+      "space",
+      "telescope"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/James Webb Space Telescope (B)/James Webb Space Telescope (B).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/James%20Webb%20Space%20Telescope%20(B)/James%20Webb%20Space%20Telescope%20(B).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/James%20Webb%20Space%20Telescope%20(B)/James%20Webb%20Space%20Telescope%20(B).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 1004248,
+    "metadata": {}
+  },
+  {
+    "id": "jason-1",
+    "name": "Jason 1",
+    "slug": "jason-1",
+    "category": "spacecraft",
+    "tags": [
+      "jason"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Jason 1/Jason 1.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Jason%201/Jason%201.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Jason%201/Jason%201.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 592740,
+    "metadata": {}
+  },
+  {
+    "id": "jason-continuity-of-service-sentinel-6",
+    "name": "Jason Continuity of Service (Sentinel-6)",
+    "slug": "jason-continuity-of-service-sentinel-6",
+    "category": "spacecraft",
+    "tags": [
+      "jason",
+      "continuity",
+      "service",
+      "sentinel"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Jason Continuity of Service (Sentinel-6)/Jason Continuity of Service (Sentinel-6).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Jason%20Continuity%20of%20Service%20(Sentinel-6)/Jason%20Continuity%20of%20Service%20(Sentinel-6).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Jason%20Continuity%20of%20Service%20(Sentinel-6)/Jason%20Continuity%20of%20Service%20(Sentinel-6).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 2108496,
+    "metadata": {}
+  },
+  {
+    "id": "jsc-mission-control-room",
+    "name": "JSC Mission Control Room",
+    "slug": "jsc-mission-control-room",
+    "category": "space-stations",
+    "tags": [
+      "jsc",
+      "mission",
+      "control",
+      "room"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/JSC Mission Control Room/JSC Mission Control Room.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/JSC%20Mission%20Control%20Room/JSC%20Mission%20Control%20Room.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/JSC%20Mission%20Control%20Room/JSC%20Mission%20Control%20Room.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 185220,
+    "metadata": {}
+  },
+  {
+    "id": "juno-a",
+    "name": "Juno (A)",
+    "slug": "juno-a",
+    "category": "spacecraft",
+    "tags": [
+      "juno"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Juno (A)/Juno (A).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Juno%20(A)/Juno%20(A).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Juno%20(A)/Juno%20(A).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 8999028,
+    "metadata": {}
+  },
+  {
+    "id": "juno-b",
+    "name": "Juno (B)",
+    "slug": "juno-b",
+    "category": "spacecraft",
+    "tags": [
+      "juno"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Juno (B)/Juno (B).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Juno%20(B)/Juno%20(B).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Juno%20(B)/Juno%20(B).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 262360,
+    "metadata": {}
+  },
+  {
+    "id": "kepler-a",
+    "name": "Kepler (A)",
+    "slug": "kepler-a",
+    "category": "spacecraft",
+    "tags": [
+      "kepler"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Kepler (A)/Kepler (A).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Kepler%20(A)/Kepler%20(A).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Kepler%20(A)/Kepler%20(A).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 2003276,
+    "metadata": {}
+  },
+  {
+    "id": "kepler-b",
+    "name": "Kepler (B)",
+    "slug": "kepler-b",
+    "category": "spacecraft",
+    "tags": [
+      "kepler"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Kepler (B)/Kepler (B).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Kepler%20(B)/Kepler%20(B).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Kepler%20(B)/Kepler%20(B).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 9656,
+    "metadata": {}
+  },
+  {
+    "id": "landsat-1-2-and-3",
+    "name": "Landsat 1, 2, and 3",
+    "slug": "landsat-1-2-and-3",
+    "category": "satellites",
+    "tags": [
+      "landsat",
+      "and"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Landsat 1, 2, and 3/Landsat 1, 2, and 3.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Landsat%201%2C%202%2C%20and%203/Landsat%201%2C%202%2C%20and%203.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Landsat%201%2C%202%2C%20and%203/Landsat%201%2C%202%2C%20and%203.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 16351272,
+    "metadata": {}
+  },
+  {
+    "id": "landsat-4-and-5",
+    "name": "Landsat 4 and 5",
+    "slug": "landsat-4-and-5",
+    "category": "satellites",
+    "tags": [
+      "landsat",
+      "and"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Landsat 4 and 5/Landsat 4 and 5.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Landsat%204%20and%205/Landsat%204%20and%205.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Landsat%204%20and%205/Landsat%204%20and%205.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 11069784,
+    "metadata": {}
+  },
+  {
+    "id": "landsat-7",
+    "name": "Landsat 7",
+    "slug": "landsat-7",
+    "category": "satellites",
+    "tags": [
+      "landsat"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Landsat 7/Landsat 7.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Landsat%207/Landsat%207.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Landsat%207/Landsat%207.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 160156,
+    "metadata": {}
+  },
+  {
+    "id": "landsat-8",
+    "name": "Landsat 8",
+    "slug": "landsat-8",
+    "category": "satellites",
+    "tags": [
+      "landsat"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Landsat 8/Landsat 8.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Landsat%208/Landsat%208.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Landsat%208/Landsat%208.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 780280,
+    "metadata": {}
+  },
+  {
+    "id": "laser-interferometer-space-antenna-lisa-2006",
+    "name": "Laser Interferometer Space Antenna (LISA) (2006)",
+    "slug": "laser-interferometer-space-antenna-lisa-2006",
+    "category": "spacecraft",
+    "tags": [
+      "laser",
+      "interferometer",
+      "space",
+      "antenna",
+      "lisa",
+      "2006"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Laser Interferometer Space Antenna (LISA) (2006)/Laser Interferometer Space Antenna (LISA) (2006).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Laser%20Interferometer%20Space%20Antenna%20(LISA)%20(2006)/Laser%20Interferometer%20Space%20Antenna%20(LISA)%20(2006).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Laser%20Interferometer%20Space%20Antenna%20(LISA)%20(2006)/Laser%20Interferometer%20Space%20Antenna%20(LISA)%20(2006).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 300608,
+    "metadata": {}
+  },
+  {
+    "id": "lunar-atmosphere-and-dust-environment-explorer-ladee",
+    "name": "Lunar Atmosphere and Dust Environment Explorer (LADEE)",
+    "slug": "lunar-atmosphere-and-dust-environment-explorer-ladee",
+    "category": "spacecraft",
+    "tags": [
+      "lunar",
+      "atmosphere",
+      "and",
+      "dust",
+      "environment",
+      "explorer",
+      "ladee"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Lunar Atmosphere and Dust Environment Explorer (LADEE)/Lunar Atmosphere and Dust Environment Explorer (LADEE).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Lunar%20Atmosphere%20and%20Dust%20Environment%20Explorer%20(LADEE)/Lunar%20Atmosphere%20and%20Dust%20Environment%20Explorer%20(LADEE).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Lunar%20Atmosphere%20and%20Dust%20Environment%20Explorer%20(LADEE)/Lunar%20Atmosphere%20and%20Dust%20Environment%20Explorer%20(LADEE).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 235468,
+    "metadata": {}
+  },
+  {
+    "id": "lunar-laser-communications-demonstration-llcd",
+    "name": "Lunar Laser Communications Demonstration (LLCD)",
+    "slug": "lunar-laser-communications-demonstration-llcd",
+    "category": "spacecraft",
+    "tags": [
+      "lunar",
+      "laser",
+      "communications",
+      "demonstration",
+      "llcd"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Lunar Laser Communications Demonstration (LLCD)/Lunar Laser Communications Demonstration (LLCD).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Lunar%20Laser%20Communications%20Demonstration%20(LLCD)/Lunar%20Laser%20Communications%20Demonstration%20(LLCD).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Lunar%20Laser%20Communications%20Demonstration%20(LLCD)/Lunar%20Laser%20Communications%20Demonstration%20(LLCD).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 1048648,
+    "metadata": {}
+  },
+  {
+    "id": "lunar-reconnaissance-orbiter-a",
+    "name": "Lunar Reconnaissance Orbiter (A)",
+    "slug": "lunar-reconnaissance-orbiter-a",
+    "category": "space-stations",
+    "tags": [
+      "lunar",
+      "reconnaissance",
+      "orbiter"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Lunar Reconnaissance Orbiter (A)/Lunar Reconnaissance Orbiter (A).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Lunar%20Reconnaissance%20Orbiter%20(A)/Lunar%20Reconnaissance%20Orbiter%20(A).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Lunar%20Reconnaissance%20Orbiter%20(A)/Lunar%20Reconnaissance%20Orbiter%20(A).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 654500,
+    "metadata": {}
+  },
+  {
+    "id": "lunar-reconnaissance-orbiter-b",
+    "name": "Lunar Reconnaissance Orbiter (B)",
+    "slug": "lunar-reconnaissance-orbiter-b",
+    "category": "space-stations",
+    "tags": [
+      "lunar",
+      "reconnaissance",
+      "orbiter"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Lunar Reconnaissance Orbiter (B)/Lunar Reconnaissance Orbiter (B).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Lunar%20Reconnaissance%20Orbiter%20(B)/Lunar%20Reconnaissance%20Orbiter%20(B).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Lunar%20Reconnaissance%20Orbiter%20(B)/Lunar%20Reconnaissance%20Orbiter%20(B).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 2902744,
+    "metadata": {}
+  },
+  {
+    "id": "magellan",
+    "name": "Magellan",
+    "slug": "magellan",
+    "category": "spacecraft",
+    "tags": [
+      "magellan"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Magellan/Magellan.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Magellan/Magellan.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Magellan/Magellan.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 3156768,
+    "metadata": {}
+  },
+  {
+    "id": "magnetospheric-multiscale-mms-a",
+    "name": "Magnetospheric Multiscale (MMS) (A)",
+    "slug": "magnetospheric-multiscale-mms-a",
+    "category": "spacecraft",
+    "tags": [
+      "magnetospheric",
+      "multiscale",
+      "mms"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Magnetospheric Multiscale (MMS) (A)/Magnetospheric Multiscale (MMS) (A).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Magnetospheric%20Multiscale%20(MMS)%20(A)/Magnetospheric%20Multiscale%20(MMS)%20(A).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Magnetospheric%20Multiscale%20(MMS)%20(A)/Magnetospheric%20Multiscale%20(MMS)%20(A).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 335808,
+    "metadata": {}
+  },
+  {
+    "id": "magnetospheric-multiscale-mms-b",
+    "name": "Magnetospheric Multiscale (MMS) (B)",
+    "slug": "magnetospheric-multiscale-mms-b",
+    "category": "spacecraft",
+    "tags": [
+      "magnetospheric",
+      "multiscale",
+      "mms"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Magnetospheric Multiscale (MMS) (B)/Magnetospheric Multiscale (MMS) (B).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Magnetospheric%20Multiscale%20(MMS)%20(B)/Magnetospheric%20Multiscale%20(MMS)%20(B).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Magnetospheric%20Multiscale%20(MMS)%20(B)/Magnetospheric%20Multiscale%20(MMS)%20(B).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 1181276,
+    "metadata": {}
+  },
+  {
+    "id": "mark-iii-spacesuit",
+    "name": "Mark III Spacesuit",
+    "slug": "mark-iii-spacesuit",
+    "category": "astronaut-equipment",
+    "tags": [
+      "mark",
+      "iii",
+      "spacesuit"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Mark III Spacesuit/Mark III Spacesuit.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Mark%20III%20Spacesuit/Mark%20III%20Spacesuit.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Mark%20III%20Spacesuit/Mark%20III%20Spacesuit.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 894092,
+    "metadata": {}
+  },
+  {
+    "id": "mars-2020-perseverance-rover",
+    "name": "Mars 2020 Perseverance Rover",
+    "slug": "mars-2020-perseverance-rover",
+    "category": "rovers",
+    "tags": [
+      "mars",
+      "2020",
+      "perseverance",
+      "rover"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Mars 2020 Perseverance Rover/Mars 2020 Perseverance Rover.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Mars%202020%20Perseverance%20Rover/Mars%202020%20Perseverance%20Rover.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Mars%202020%20Perseverance%20Rover/Mars%202020%20Perseverance%20Rover.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 4987176,
+    "metadata": {}
+  },
+  {
+    "id": "mars-atmosphere-and-volatile-evolution-maven-a",
+    "name": "Mars Atmosphere and Volatile EvolutioN (MAVEN) (A)",
+    "slug": "mars-atmosphere-and-volatile-evolution-maven-a",
+    "category": "planetary-objects",
+    "tags": [
+      "mars",
+      "atmosphere",
+      "and",
+      "volatile",
+      "evolution",
+      "maven"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Mars Atmosphere and Volatile EvolutioN (MAVEN) (A)/Mars Atmosphere and Volatile EvolutioN (MAVEN) (A).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Mars%20Atmosphere%20and%20Volatile%20EvolutioN%20(MAVEN)%20(A)/Mars%20Atmosphere%20and%20Volatile%20EvolutioN%20(MAVEN)%20(A).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Mars%20Atmosphere%20and%20Volatile%20EvolutioN%20(MAVEN)%20(A)/Mars%20Atmosphere%20and%20Volatile%20EvolutioN%20(MAVEN)%20(A).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 10465800,
+    "metadata": {}
+  },
+  {
+    "id": "mars-atmosphere-and-volatile-evolution-maven-b",
+    "name": "Mars Atmosphere and Volatile EvolutioN (MAVEN) (B)",
+    "slug": "mars-atmosphere-and-volatile-evolution-maven-b",
+    "category": "planetary-objects",
+    "tags": [
+      "mars",
+      "atmosphere",
+      "and",
+      "volatile",
+      "evolution",
+      "maven"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Mars Atmosphere and Volatile EvolutioN (MAVEN) (B)/Mars Atmosphere and Volatile EvolutioN (MAVEN) (B).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Mars%20Atmosphere%20and%20Volatile%20EvolutioN%20(MAVEN)%20(B)/Mars%20Atmosphere%20and%20Volatile%20EvolutioN%20(MAVEN)%20(B).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Mars%20Atmosphere%20and%20Volatile%20EvolutioN%20(MAVEN)%20(B)/Mars%20Atmosphere%20and%20Volatile%20EvolutioN%20(MAVEN)%20(B).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 11696720,
+    "metadata": {}
+  },
+  {
+    "id": "mars-exploration-rover-opportunity-mer-b",
+    "name": "Mars Exploration Rover - Opportunity (MER-B)",
+    "slug": "mars-exploration-rover-opportunity-mer-b",
+    "category": "rovers",
+    "tags": [
+      "mars",
+      "exploration",
+      "rover",
+      "opportunity",
+      "mer"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Mars Exploration Rover - Opportunity (MER-B)/Mars Exploration Rover - Opportunity (MER-B).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Mars%20Exploration%20Rover%20-%20Opportunity%20(MER-B)/Mars%20Exploration%20Rover%20-%20Opportunity%20(MER-B).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Mars%20Exploration%20Rover%20-%20Opportunity%20(MER-B)/Mars%20Exploration%20Rover%20-%20Opportunity%20(MER-B).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 36668,
+    "metadata": {}
+  },
+  {
+    "id": "mars-global-surveyor",
+    "name": "Mars Global Surveyor",
+    "slug": "mars-global-surveyor",
+    "category": "planetary-objects",
+    "tags": [
+      "mars",
+      "global",
+      "surveyor"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Mars Global Surveyor/Mars Global Surveyor.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Mars%20Global%20Surveyor/Mars%20Global%20Surveyor.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Mars%20Global%20Surveyor/Mars%20Global%20Surveyor.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 1921268,
+    "metadata": {}
+  },
+  {
+    "id": "mars-global-surveyor-launch",
+    "name": "Mars Global Surveyor (launch)",
+    "slug": "mars-global-surveyor-launch",
+    "category": "planetary-objects",
+    "tags": [
+      "mars",
+      "global",
+      "surveyor",
+      "launch"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Mars Global Surveyor/Mars Global Surveyor (launch).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Mars%20Global%20Surveyor/Mars%20Global%20Surveyor%20(launch).glb",
+    "previewUrl": null,
+    "format": [
+      "glb"
+    ],
+    "fileSize": 58252,
+    "metadata": {}
+  },
+  {
+    "id": "mars-global-surveyor-mapping",
+    "name": "Mars Global Surveyor (mapping)",
+    "slug": "mars-global-surveyor-mapping",
+    "category": "planetary-objects",
+    "tags": [
+      "mars",
+      "global",
+      "surveyor",
+      "mapping"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Mars Global Surveyor/Mars Global Surveyor (mapping).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Mars%20Global%20Surveyor/Mars%20Global%20Surveyor%20(mapping).glb",
+    "previewUrl": null,
+    "format": [
+      "glb"
+    ],
+    "fileSize": 55184,
+    "metadata": {}
+  },
+  {
+    "id": "mars-global-surveyor-moi",
+    "name": "Mars Global Surveyor (MOI)",
+    "slug": "mars-global-surveyor-moi",
+    "category": "planetary-objects",
+    "tags": [
+      "mars",
+      "global",
+      "surveyor",
+      "moi"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Mars Global Surveyor/Mars Global Surveyor (MOI).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Mars%20Global%20Surveyor/Mars%20Global%20Surveyor%20(MOI).glb",
+    "previewUrl": null,
+    "format": [
+      "glb"
+    ],
+    "fileSize": 53352,
+    "metadata": {}
+  },
+  {
+    "id": "mars-odyssey",
+    "name": "Mars Odyssey",
+    "slug": "mars-odyssey",
+    "category": "planetary-objects",
+    "tags": [
+      "mars",
+      "odyssey"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Mars Odyssey/Mars Odyssey.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Mars%20Odyssey/Mars%20Odyssey.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Mars%20Odyssey/Mars%20Odyssey.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 5801372,
+    "metadata": {}
+  },
+  {
+    "id": "mars-reconnaissance-orbiter-mro-a",
+    "name": "Mars Reconnaissance Orbiter (MRO) (A)",
+    "slug": "mars-reconnaissance-orbiter-mro-a",
+    "category": "space-stations",
+    "tags": [
+      "mars",
+      "reconnaissance",
+      "orbiter",
+      "mro"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Mars Reconnaissance Orbiter (MRO) (A)/Mars Reconnaissance Orbiter (MRO) (A).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Mars%20Reconnaissance%20Orbiter%20(MRO)%20(A)/Mars%20Reconnaissance%20Orbiter%20(MRO)%20(A).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Mars%20Reconnaissance%20Orbiter%20(MRO)%20(A)/Mars%20Reconnaissance%20Orbiter%20(MRO)%20(A).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 2652460,
+    "metadata": {}
+  },
+  {
+    "id": "mars-reconnaissance-orbiter-mro-b",
+    "name": "Mars Reconnaissance Orbiter (MRO) (B)",
+    "slug": "mars-reconnaissance-orbiter-mro-b",
+    "category": "space-stations",
+    "tags": [
+      "mars",
+      "reconnaissance",
+      "orbiter",
+      "mro"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Mars Reconnaissance Orbiter (MRO) (B)/Mars Reconnaissance Orbiter (MRO) (B).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Mars%20Reconnaissance%20Orbiter%20(MRO)%20(B)/Mars%20Reconnaissance%20Orbiter%20(MRO)%20(B).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Mars%20Reconnaissance%20Orbiter%20(MRO)%20(B)/Mars%20Reconnaissance%20Orbiter%20(MRO)%20(B).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 16544,
+    "metadata": {}
+  },
+  {
+    "id": "mars-reconnaissance-orbiter-mro-c",
+    "name": "Mars Reconnaissance Orbiter (MRO) (C)",
+    "slug": "mars-reconnaissance-orbiter-mro-c",
+    "category": "space-stations",
+    "tags": [
+      "mars",
+      "reconnaissance",
+      "orbiter",
+      "mro"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Mars Reconnaissance Orbiter (MRO) (C)/Mars Reconnaissance Orbiter (MRO) (C).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Mars%20Reconnaissance%20Orbiter%20(MRO)%20(C)/Mars%20Reconnaissance%20Orbiter%20(MRO)%20(C).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Mars%20Reconnaissance%20Orbiter%20(MRO)%20(C)/Mars%20Reconnaissance%20Orbiter%20(MRO)%20(C).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 1219800,
+    "metadata": {}
+  },
+  {
+    "id": "mercury-spacesuit",
+    "name": "Mercury Spacesuit",
+    "slug": "mercury-spacesuit",
+    "category": "astronaut-equipment",
+    "tags": [
+      "mercury",
+      "spacesuit"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Mercury Spacesuit/Mercury Spacesuit.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Mercury%20Spacesuit/Mercury%20Spacesuit.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Mercury%20Spacesuit/Mercury%20Spacesuit.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 513884,
+    "metadata": {}
+  },
+  {
+    "id": "mercury-surface-space-environment-geochemistry-and-ranging-messenger",
+    "name": "MErcury Surface, Space ENvironment, GEochemistry, and Ranging (MESSENGER)",
+    "slug": "mercury-surface-space-environment-geochemistry-and-ranging-messenger",
+    "category": "spacecraft",
+    "tags": [
+      "mercury",
+      "surface,",
+      "space",
+      "environment,",
+      "geochemistry,",
+      "and",
+      "ranging",
+      "messenger"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/MErcury Surface, Space ENvironment, GEochemistry, and Ranging (MESSENGER)/MErcury Surface, Space ENvironment, GEochemistry, and Ranging (MESSENGER).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/MErcury%20Surface%2C%20Space%20ENvironment%2C%20GEochemistry%2C%20and%20Ranging%20(MESSENGER)/MErcury%20Surface%2C%20Space%20ENvironment%2C%20GEochemistry%2C%20and%20Ranging%20(MESSENGER).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/MErcury%20Surface%2C%20Space%20ENvironment%2C%20GEochemistry%2C%20and%20Ranging%20(MESSENGER)/MErcury%20Surface%2C%20Space%20ENvironment%2C%20GEochemistry%2C%20and%20Ranging%20(MESSENGER).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 2673396,
+    "metadata": {}
+  },
+  {
+    "id": "mir",
+    "name": "Mir",
+    "slug": "mir",
+    "category": "spacecraft",
+    "tags": [
+      "mir"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Mir/Mir.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Mir/Mir.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Mir/Mir.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 20884,
+    "metadata": {}
+  },
+  {
+    "id": "mobile-launcher-assembled",
+    "name": "Mobile Launcher (assembled)",
+    "slug": "mobile-launcher-assembled",
+    "category": "ground-systems",
+    "tags": [
+      "mobile",
+      "launcher",
+      "assembled"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Mobile Launcher/Mobile Launcher (assembled).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Mobile%20Launcher/Mobile%20Launcher%20(assembled).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Mobile%20Launcher/Mobile%20Launcher%20(assembled).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 198480,
+    "metadata": {}
+  },
+  {
+    "id": "mobile-launcher-pad-only",
+    "name": "Mobile Launcher (pad only)",
+    "slug": "mobile-launcher-pad-only",
+    "category": "ground-systems",
+    "tags": [
+      "mobile",
+      "launcher",
+      "pad",
+      "only"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Mobile Launcher/Mobile Launcher (pad only).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Mobile%20Launcher/Mobile%20Launcher%20(pad%20only).glb",
+    "previewUrl": null,
+    "format": [
+      "glb"
+    ],
+    "fileSize": 149408,
+    "metadata": {}
+  },
+  {
+    "id": "nancy-grace-roman-space-telescope-a",
+    "name": "Nancy Grace Roman Space Telescope (A)",
+    "slug": "nancy-grace-roman-space-telescope-a",
+    "category": "telescopes",
+    "tags": [
+      "nancy",
+      "grace",
+      "roman",
+      "space",
+      "telescope"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Nancy Grace Roman Space Telescope (A)/Nancy Grace Roman Space Telescope (A).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Nancy%20Grace%20Roman%20Space%20Telescope%20(A)/Nancy%20Grace%20Roman%20Space%20Telescope%20(A).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Nancy%20Grace%20Roman%20Space%20Telescope%20(A)/Nancy%20Grace%20Roman%20Space%20Telescope%20(A).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 2672000,
+    "metadata": {}
+  },
+  {
+    "id": "nancy-grace-roman-space-telescope-b",
+    "name": "Nancy Grace Roman Space Telescope (B)",
+    "slug": "nancy-grace-roman-space-telescope-b",
+    "category": "telescopes",
+    "tags": [
+      "nancy",
+      "grace",
+      "roman",
+      "space",
+      "telescope"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Nancy Grace Roman Space Telescope (B)/Nancy Grace Roman Space Telescope (B).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Nancy%20Grace%20Roman%20Space%20Telescope%20(B)/Nancy%20Grace%20Roman%20Space%20Telescope%20(B).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Nancy%20Grace%20Roman%20Space%20Telescope%20(B)/Nancy%20Grace%20Roman%20Space%20Telescope%20(B).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 342672,
+    "metadata": {}
+  },
+  {
+    "id": "near-shoemaker",
+    "name": "NEAR Shoemaker",
+    "slug": "near-shoemaker",
+    "category": "spacecraft",
+    "tags": [
+      "near",
+      "shoemaker"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/NEAR Shoemaker/NEAR Shoemaker.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/NEAR%20Shoemaker/NEAR%20Shoemaker.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/NEAR%20Shoemaker/NEAR%20Shoemaker.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 701808,
+    "metadata": {}
+  },
+  {
+    "id": "ocean-surface-topography-mission-ostm-jason-2",
+    "name": "Ocean Surface Topography Mission (OSTM Jason-2)",
+    "slug": "ocean-surface-topography-mission-ostm-jason-2",
+    "category": "space-stations",
+    "tags": [
+      "ocean",
+      "surface",
+      "topography",
+      "mission",
+      "ostm",
+      "jason"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Ocean Surface Topography Mission (OSTM Jason-2)/Ocean Surface Topography Mission (OSTM Jason-2).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Ocean%20Surface%20Topography%20Mission%20(OSTM%20Jason-2)/Ocean%20Surface%20Topography%20Mission%20(OSTM%20Jason-2).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Ocean%20Surface%20Topography%20Mission%20(OSTM%20Jason-2)/Ocean%20Surface%20Topography%20Mission%20(OSTM%20Jason-2).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 924688,
+    "metadata": {}
+  },
+  {
+    "id": "orbital-replacement-unit",
+    "name": "Orbital Replacement Unit",
+    "slug": "orbital-replacement-unit",
+    "category": "spacecraft",
+    "tags": [
+      "orbital",
+      "replacement",
+      "unit"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Orbital Replacement Unit/Orbital Replacement Unit.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Orbital%20Replacement%20Unit/Orbital%20Replacement%20Unit.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Orbital%20Replacement%20Unit/Orbital%20Replacement%20Unit.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 585684,
+    "metadata": {}
+  },
+  {
+    "id": "orbiter-docking-system",
+    "name": "Orbiter Docking System",
+    "slug": "orbiter-docking-system",
+    "category": "spacecraft",
+    "tags": [
+      "orbiter",
+      "docking",
+      "system"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Space Shuttle Parts/Orbiter Docking System.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Space%20Shuttle%20Parts/Orbiter%20Docking%20System.glb",
+    "previewUrl": null,
+    "format": [
+      "glb"
+    ],
+    "fileSize": 841040,
+    "metadata": {}
+  },
+  {
+    "id": "orbiting-carbon-observatory-oco-2",
+    "name": "Orbiting Carbon Observatory (OCO) 2",
+    "slug": "orbiting-carbon-observatory-oco-2",
+    "category": "spacecraft",
+    "tags": [
+      "orbiting",
+      "carbon",
+      "observatory",
+      "oco"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Orbiting Carbon Observatory (OCO) 2/Orbiting Carbon Observatory (OCO) 2.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Orbiting%20Carbon%20Observatory%20(OCO)%202/Orbiting%20Carbon%20Observatory%20(OCO)%202.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Orbiting%20Carbon%20Observatory%20(OCO)%202/Orbiting%20Carbon%20Observatory%20(OCO)%202.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 280060,
+    "metadata": {}
+  },
+  {
+    "id": "osiris-rex",
+    "name": "OSIRIS-REx",
+    "slug": "osiris-rex",
+    "category": "spacecraft",
+    "tags": [
+      "osiris",
+      "rex"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Origins, Spectral Interpretation, Resource Identification, and Security - Regolith Explorer (OSIRIS-REx)/OSIRIS-REx.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Origins%2C%20Spectral%20Interpretation%2C%20Resource%20Identification%2C%20and%20Security%20-%20Regolith%20Explorer%20(OSIRIS-REx)/OSIRIS-REx.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Origins%2C%20Spectral%20Interpretation%2C%20Resource%20Identification%2C%20and%20Security%20-%20Regolith%20Explorer%20(OSIRIS-REx)/OSIRIS-REx.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 1281308,
+    "metadata": {}
+  },
+  {
+    "id": "parker-solar-probe",
+    "name": "Parker Solar Probe",
+    "slug": "parker-solar-probe",
+    "category": "spacecraft",
+    "tags": [
+      "parker",
+      "solar",
+      "probe"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Parker Solar Probe/Parker Solar Probe.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Parker%20Solar%20Probe/Parker%20Solar%20Probe.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Parker%20Solar%20Probe/Parker%20Solar%20Probe.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 443572,
+    "metadata": {}
+  },
+  {
+    "id": "payload",
+    "name": "Payload",
+    "slug": "payload",
+    "category": "spacecraft",
+    "tags": [
+      "payload"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Space Shuttle Parts/Payload.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Space%20Shuttle%20Parts/Payload.glb",
+    "previewUrl": null,
+    "format": [
+      "glb"
+    ],
+    "fileSize": 516016,
+    "metadata": {}
+  },
+  {
+    "id": "pioneer-10",
+    "name": "Pioneer 10",
+    "slug": "pioneer-10",
+    "category": "spacecraft",
+    "tags": [
+      "pioneer"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Pioneer 10/Pioneer 10.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Pioneer%2010/Pioneer%2010.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Pioneer%2010/Pioneer%2010.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 2049840,
+    "metadata": {}
+  },
+  {
+    "id": "pistol-grip-tool",
+    "name": "Pistol Grip Tool",
+    "slug": "pistol-grip-tool",
+    "category": "spacecraft",
+    "tags": [
+      "pistol",
+      "grip",
+      "tool"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Pistol Grip Tool/Pistol Grip Tool.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Pistol%20Grip%20Tool/Pistol%20Grip%20Tool.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Pistol%20Grip%20Tool/Pistol%20Grip%20Tool.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 236300,
+    "metadata": {}
+  },
+  {
+    "id": "polar",
+    "name": "Polar",
+    "slug": "polar",
+    "category": "spacecraft",
+    "tags": [
+      "polar"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Polar/Polar.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Polar/Polar.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Polar/Polar.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 98592,
+    "metadata": {}
+  },
+  {
+    "id": "polar-operational-environmental-satellite-poes",
+    "name": "Polar Operational Environmental Satellite (POES)",
+    "slug": "polar-operational-environmental-satellite-poes",
+    "category": "satellites",
+    "tags": [
+      "polar",
+      "operational",
+      "environmental",
+      "satellite",
+      "poes"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Polar Operational Environmental Satellite (POES)/Polar Operational Environmental Satellite (POES).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Polar%20Operational%20Environmental%20Satellite%20(POES)/Polar%20Operational%20Environmental%20Satellite%20(POES).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Polar%20Operational%20Environmental%20Satellite%20(POES)/Polar%20Operational%20Environmental%20Satellite%20(POES).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 1158944,
+    "metadata": {}
+  },
+  {
+    "id": "quick-scatterometer-quikscat",
+    "name": "Quick Scatterometer (QuikSCAT)",
+    "slug": "quick-scatterometer-quikscat",
+    "category": "spacecraft",
+    "tags": [
+      "quick",
+      "scatterometer",
+      "quikscat"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Quick Scatterometer (QuikSCAT)/Quick Scatterometer (QuikSCAT).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Quick%20Scatterometer%20(QuikSCAT)/Quick%20Scatterometer%20(QuikSCAT).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Quick%20Scatterometer%20(QuikSCAT)/Quick%20Scatterometer%20(QuikSCAT).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 4461708,
+    "metadata": {}
+  },
+  {
+    "id": "radar-satellite-1-radarsat-1",
+    "name": "Radar Satellite-1 (RADARSAT-1)",
+    "slug": "radar-satellite-1-radarsat-1",
+    "category": "satellites",
+    "tags": [
+      "radar",
+      "satellite",
+      "radarsat"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Radar Satellite-1 (RADARSAT-1)/Radar Satellite-1 (RADARSAT-1).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Radar%20Satellite-1%20(RADARSAT-1)/Radar%20Satellite-1%20(RADARSAT-1).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Radar%20Satellite-1%20(RADARSAT-1)/Radar%20Satellite-1%20(RADARSAT-1).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 68148,
+    "metadata": {}
+  },
+  {
+    "id": "radome",
+    "name": "Radome",
+    "slug": "radome",
+    "category": "spacecraft",
+    "tags": [
+      "radome"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Radome/Radome.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Radome/Radome.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Radome/Radome.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 824128,
+    "metadata": {}
+  },
+  {
+    "id": "ratchet",
+    "name": "Ratchet",
+    "slug": "ratchet",
+    "category": "spacecraft",
+    "tags": [
+      "ratchet"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Ratchet/Ratchet.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Ratchet/Ratchet.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Ratchet/Ratchet.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 33508,
+    "metadata": {}
+  },
+  {
+    "id": "redstone-3-freedom-7",
+    "name": "Redstone 3 (Freedom 7)",
+    "slug": "redstone-3-freedom-7",
+    "category": "spacecraft",
+    "tags": [
+      "redstone",
+      "freedom"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Redstone 3 (Freedom 7)/Redstone 3 (Freedom 7).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Redstone%203%20(Freedom%207)/Redstone%203%20(Freedom%207).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Redstone%203%20(Freedom%207)/Redstone%203%20(Freedom%207).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 1028400,
+    "metadata": {}
+  },
+  {
+    "id": "regolith-advanced-surface-systems-operations-robot-rassor",
+    "name": "Regolith Advanced Surface Systems Operations Robot (RASSOR)",
+    "slug": "regolith-advanced-surface-systems-operations-robot-rassor",
+    "category": "spacecraft",
+    "tags": [
+      "regolith",
+      "advanced",
+      "surface",
+      "systems",
+      "operations",
+      "robot",
+      "rassor"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Regolith Advanced Surface Systems Operations Robot (RASSOR)/Regolith Advanced Surface Systems Operations Robot (RASSOR).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Regolith%20Advanced%20Surface%20Systems%20Operations%20Robot%20(RASSOR)/Regolith%20Advanced%20Surface%20Systems%20Operations%20Robot%20(RASSOR).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Regolith%20Advanced%20Surface%20Systems%20Operations%20Robot%20(RASSOR)/Regolith%20Advanced%20Surface%20Systems%20Operations%20Robot%20(RASSOR).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 6283464,
+    "metadata": {}
+  },
+  {
+    "id": "robonaut-2",
+    "name": "Robonaut 2",
+    "slug": "robonaut-2",
+    "category": "spacecraft",
+    "tags": [
+      "robonaut"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Robonaut 2/Robonaut 2.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Robonaut%202/Robonaut%202.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Robonaut%202/Robonaut%202.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 1066836,
+    "metadata": {}
+  },
+  {
+    "id": "rosetta",
+    "name": "Rosetta",
+    "slug": "rosetta",
+    "category": "spacecraft",
+    "tags": [
+      "rosetta"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Rosetta/Rosetta.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Rosetta/Rosetta.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Rosetta/Rosetta.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 2262728,
+    "metadata": {}
+  },
+  {
+    "id": "satellite-for-scientific-applications-sac-c",
+    "name": "Satellite for Scientific Applications (SAC-C)",
+    "slug": "satellite-for-scientific-applications-sac-c",
+    "category": "satellites",
+    "tags": [
+      "satellite",
+      "for",
+      "scientific",
+      "applications",
+      "sac"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Satellite for Scientific Applications (SAC-C)/Satellite for Scientific Applications (SAC-C).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Satellite%20for%20Scientific%20Applications%20(SAC-C)/Satellite%20for%20Scientific%20Applications%20(SAC-C).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Satellite%20for%20Scientific%20Applications%20(SAC-C)/Satellite%20for%20Scientific%20Applications%20(SAC-C).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 73608,
+    "metadata": {}
+  },
+  {
+    "id": "satellite-kit-body-1",
+    "name": "Satellite Kit body 1",
+    "slug": "satellite-kit-body-1",
+    "category": "satellites",
+    "tags": [
+      "satellite",
+      "kit",
+      "body"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Satellite Kit/Satellite Kit body 1.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Satellite%20Kit/Satellite%20Kit%20body%201.glb",
+    "previewUrl": null,
+    "format": [
+      "glb"
+    ],
+    "fileSize": 2916,
+    "metadata": {}
+  },
+  {
+    "id": "satellite-kit-body-2",
+    "name": "Satellite Kit body 2",
+    "slug": "satellite-kit-body-2",
+    "category": "satellites",
+    "tags": [
+      "satellite",
+      "kit",
+      "body"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Satellite Kit/Satellite Kit body 2.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Satellite%20Kit/Satellite%20Kit%20body%202.glb",
+    "previewUrl": null,
+    "format": [
+      "glb"
+    ],
+    "fileSize": 5256,
+    "metadata": {}
+  },
+  {
+    "id": "satellite-kit-body-3",
+    "name": "Satellite Kit body 3",
+    "slug": "satellite-kit-body-3",
+    "category": "satellites",
+    "tags": [
+      "satellite",
+      "kit",
+      "body"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Satellite Kit/Satellite Kit body 3.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Satellite%20Kit/Satellite%20Kit%20body%203.glb",
+    "previewUrl": null,
+    "format": [
+      "glb"
+    ],
+    "fileSize": 4944,
+    "metadata": {}
+  },
+  {
+    "id": "satellite-kit-radio-1",
+    "name": "Satellite Kit radio 1",
+    "slug": "satellite-kit-radio-1",
+    "category": "satellites",
+    "tags": [
+      "satellite",
+      "kit",
+      "radio"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Satellite Kit/Satellite Kit radio 1.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Satellite%20Kit/Satellite%20Kit%20radio%201.glb",
+    "previewUrl": null,
+    "format": [
+      "glb"
+    ],
+    "fileSize": 8436,
+    "metadata": {}
+  },
+  {
+    "id": "satellite-kit-radio-2",
+    "name": "Satellite Kit radio 2",
+    "slug": "satellite-kit-radio-2",
+    "category": "satellites",
+    "tags": [
+      "satellite",
+      "kit",
+      "radio"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Satellite Kit/Satellite Kit radio 2.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Satellite%20Kit/Satellite%20Kit%20radio%202.glb",
+    "previewUrl": null,
+    "format": [
+      "glb"
+    ],
+    "fileSize": 8752,
+    "metadata": {}
+  },
+  {
+    "id": "satellite-kit-radio-3",
+    "name": "Satellite Kit radio 3",
+    "slug": "satellite-kit-radio-3",
+    "category": "satellites",
+    "tags": [
+      "satellite",
+      "kit",
+      "radio"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Satellite Kit/Satellite Kit radio 3.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Satellite%20Kit/Satellite%20Kit%20radio%203.glb",
+    "previewUrl": null,
+    "format": [
+      "glb"
+    ],
+    "fileSize": 9012,
+    "metadata": {}
+  },
+  {
+    "id": "satellite-kit-wings-1",
+    "name": "Satellite Kit wings 1",
+    "slug": "satellite-kit-wings-1",
+    "category": "satellites",
+    "tags": [
+      "satellite",
+      "kit",
+      "wings"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Satellite Kit/Satellite Kit wings 1.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Satellite%20Kit/Satellite%20Kit%20wings%201.glb",
+    "previewUrl": null,
+    "format": [
+      "glb"
+    ],
+    "fileSize": 4860,
+    "metadata": {}
+  },
+  {
+    "id": "satellite-kit-wings-2",
+    "name": "Satellite Kit wings 2",
+    "slug": "satellite-kit-wings-2",
+    "category": "satellites",
+    "tags": [
+      "satellite",
+      "kit",
+      "wings"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Satellite Kit/Satellite Kit wings 2.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Satellite%20Kit/Satellite%20Kit%20wings%202.glb",
+    "previewUrl": null,
+    "format": [
+      "glb"
+    ],
+    "fileSize": 8172,
+    "metadata": {}
+  },
+  {
+    "id": "satellite-kit-wings-3",
+    "name": "Satellite Kit wings 3",
+    "slug": "satellite-kit-wings-3",
+    "category": "satellites",
+    "tags": [
+      "satellite",
+      "kit",
+      "wings"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Satellite Kit/Satellite Kit wings 3.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Satellite%20Kit/Satellite%20Kit%20wings%203.glb",
+    "previewUrl": null,
+    "format": [
+      "glb"
+    ],
+    "fileSize": 14820,
+    "metadata": {}
+  },
+  {
+    "id": "saturn-v",
+    "name": "Saturn V",
+    "slug": "saturn-v",
+    "category": "rockets",
+    "tags": [
+      "saturn"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Saturn V/Saturn V.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Saturn%20V/Saturn%20V.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Saturn%20V/Saturn%20V.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 927212,
+    "metadata": {}
+  },
+  {
+    "id": "seastar",
+    "name": "SeaStar",
+    "slug": "seastar",
+    "category": "planetary-objects",
+    "tags": [
+      "seastar"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/SeaStar/SeaStar.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/SeaStar/SeaStar.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/SeaStar/SeaStar.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 24048,
+    "metadata": {}
+  },
+  {
+    "id": "skylab",
+    "name": "Skylab",
+    "slug": "skylab",
+    "category": "space-stations",
+    "tags": [
+      "skylab"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Skylab/Skylab.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Skylab/Skylab.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Skylab/Skylab.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 98396,
+    "metadata": {}
+  },
+  {
+    "id": "solar-and-heliospheric-observatory",
+    "name": "Solar and Heliospheric Observatory",
+    "slug": "solar-and-heliospheric-observatory",
+    "category": "spacecraft",
+    "tags": [
+      "solar",
+      "and",
+      "heliospheric",
+      "observatory"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Solar and Heliospheric Observatory/Solar and Heliospheric Observatory.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Solar%20and%20Heliospheric%20Observatory/Solar%20and%20Heliospheric%20Observatory.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Solar%20and%20Heliospheric%20Observatory/Solar%20and%20Heliospheric%20Observatory.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 83268,
+    "metadata": {}
+  },
+  {
+    "id": "solar-dynamics-observatory",
+    "name": "Solar Dynamics Observatory",
+    "slug": "solar-dynamics-observatory",
+    "category": "spacecraft",
+    "tags": [
+      "solar",
+      "dynamics",
+      "observatory"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Solar Dynamics Observatory/Solar Dynamics Observatory.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Solar%20Dynamics%20Observatory/Solar%20Dynamics%20Observatory.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Solar%20Dynamics%20Observatory/Solar%20Dynamics%20Observatory.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 497844,
+    "metadata": {}
+  },
+  {
+    "id": "solar-radiation-and-climate-experiment-sorce",
+    "name": "Solar Radiation and Climate Experiment (SORCE)",
+    "slug": "solar-radiation-and-climate-experiment-sorce",
+    "category": "spacecraft",
+    "tags": [
+      "solar",
+      "radiation",
+      "and",
+      "climate",
+      "experiment",
+      "sorce"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Solar Radiation and Climate Experiment (SORCE)/Solar Radiation and Climate Experiment (SORCE).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Solar%20Radiation%20and%20Climate%20Experiment%20(SORCE)/Solar%20Radiation%20and%20Climate%20Experiment%20(SORCE).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Solar%20Radiation%20and%20Climate%20Experiment%20(SORCE)/Solar%20Radiation%20and%20Climate%20Experiment%20(SORCE).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 366492,
+    "metadata": {}
+  },
+  {
+    "id": "solar-sail-concept",
+    "name": "Solar Sail Concept",
+    "slug": "solar-sail-concept",
+    "category": "spacecraft",
+    "tags": [
+      "solar",
+      "sail",
+      "concept"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Solar Sail Concept/Solar Sail Concept.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Solar%20Sail%20Concept/Solar%20Sail%20Concept.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Solar%20Sail%20Concept/Solar%20Sail%20Concept.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 235524,
+    "metadata": {}
+  },
+  {
+    "id": "solar-terrestrial-relations-observatory-stereo",
+    "name": "Solar TErrestrial RElations Observatory (STEREO)",
+    "slug": "solar-terrestrial-relations-observatory-stereo",
+    "category": "spacecraft",
+    "tags": [
+      "solar",
+      "terrestrial",
+      "relations",
+      "observatory",
+      "stereo"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Solar TErrestrial RElations Observatory (STEREO)/Solar TErrestrial RElations Observatory (STEREO).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Solar%20TErrestrial%20RElations%20Observatory%20(STEREO)/Solar%20TErrestrial%20RElations%20Observatory%20(STEREO).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Solar%20TErrestrial%20RElations%20Observatory%20(STEREO)/Solar%20TErrestrial%20RElations%20Observatory%20(STEREO).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 354212,
+    "metadata": {}
+  },
+  {
+    "id": "solid-rocket-booster",
+    "name": "Solid Rocket Booster",
+    "slug": "solid-rocket-booster",
+    "category": "rockets",
+    "tags": [
+      "solid",
+      "rocket",
+      "booster"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Space Shuttle Parts/Solid Rocket Booster.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Space%20Shuttle%20Parts/Solid%20Rocket%20Booster.glb",
+    "previewUrl": null,
+    "format": [
+      "glb"
+    ],
+    "fileSize": 2665460,
+    "metadata": {}
+  },
+  {
+    "id": "space-exploration-vehicle",
+    "name": "Space Exploration Vehicle",
+    "slug": "space-exploration-vehicle",
+    "category": "spacecraft",
+    "tags": [
+      "space",
+      "exploration",
+      "vehicle"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Space Exploration Vehicle/Space Exploration Vehicle.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Space%20Exploration%20Vehicle/Space%20Exploration%20Vehicle.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Space%20Exploration%20Vehicle/Space%20Exploration%20Vehicle.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 22431576,
+    "metadata": {}
+  },
+  {
+    "id": "space-shuttle-a",
+    "name": "Space Shuttle (A)",
+    "slug": "space-shuttle-a",
+    "category": "spacecraft",
+    "tags": [
+      "space",
+      "shuttle"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Space Shuttle (A)/Space Shuttle (A).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Space%20Shuttle%20(A)/Space%20Shuttle%20(A).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Space%20Shuttle%20(A)/Space%20Shuttle%20(A).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 1194068,
+    "metadata": {}
+  },
+  {
+    "id": "space-shuttle-b",
+    "name": "Space Shuttle (B)",
+    "slug": "space-shuttle-b",
+    "category": "spacecraft",
+    "tags": [
+      "space",
+      "shuttle"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Space Shuttle (B)/Space Shuttle (B).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Space%20Shuttle%20(B)/Space%20Shuttle%20(B).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Space%20Shuttle%20(B)/Space%20Shuttle%20(B).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 11348,
+    "metadata": {}
+  },
+  {
+    "id": "space-shuttle-c",
+    "name": "Space Shuttle (C)",
+    "slug": "space-shuttle-c",
+    "category": "spacecraft",
+    "tags": [
+      "space",
+      "shuttle"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Space Shuttle (C)/Space Shuttle (C).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Space%20Shuttle%20(C)/Space%20Shuttle%20(C).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Space%20Shuttle%20(C)/Space%20Shuttle%20(C).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 26132,
+    "metadata": {}
+  },
+  {
+    "id": "space-shuttle-d",
+    "name": "Space Shuttle (D)",
+    "slug": "space-shuttle-d",
+    "category": "spacecraft",
+    "tags": [
+      "space",
+      "shuttle"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Space Shuttle (D)/Space Shuttle (D).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Space%20Shuttle%20(D)/Space%20Shuttle%20(D).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Space%20Shuttle%20(D)/Space%20Shuttle%20(D).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 2471932,
+    "metadata": {}
+  },
+  {
+    "id": "space-shuttle-d-door-prt",
+    "name": "Space Shuttle (D) door-prt",
+    "slug": "space-shuttle-d-door-prt",
+    "category": "spacecraft",
+    "tags": [
+      "space",
+      "shuttle",
+      "door",
+      "prt"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Space Shuttle (D)/Space Shuttle (D) door-prt.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Space%20Shuttle%20(D)/Space%20Shuttle%20(D)%20door-prt.glb",
+    "previewUrl": null,
+    "format": [
+      "glb"
+    ],
+    "fileSize": 36044,
+    "metadata": {}
+  },
+  {
+    "id": "space-shuttle-d-door-stb",
+    "name": "Space Shuttle (D) door-stb",
+    "slug": "space-shuttle-d-door-stb",
+    "category": "spacecraft",
+    "tags": [
+      "space",
+      "shuttle",
+      "door",
+      "stb"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Space Shuttle (D)/Space Shuttle (D) door-stb.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Space%20Shuttle%20(D)/Space%20Shuttle%20(D)%20door-stb.glb",
+    "previewUrl": null,
+    "format": [
+      "glb"
+    ],
+    "fileSize": 36024,
+    "metadata": {}
+  },
+  {
+    "id": "space-shuttle-d-eng",
+    "name": "Space Shuttle (D) eng",
+    "slug": "space-shuttle-d-eng",
+    "category": "spacecraft",
+    "tags": [
+      "space",
+      "shuttle",
+      "eng"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Space Shuttle (D)/Space Shuttle (D) eng.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Space%20Shuttle%20(D)/Space%20Shuttle%20(D)%20eng.glb",
+    "previewUrl": null,
+    "format": [
+      "glb"
+    ],
+    "fileSize": 480216,
+    "metadata": {}
+  },
+  {
+    "id": "space-shuttle-d-rcs",
+    "name": "Space Shuttle (D) rcs",
+    "slug": "space-shuttle-d-rcs",
+    "category": "spacecraft",
+    "tags": [
+      "space",
+      "shuttle",
+      "rcs"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Space Shuttle (D)/Space Shuttle (D) rcs.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Space%20Shuttle%20(D)/Space%20Shuttle%20(D)%20rcs.glb",
+    "previewUrl": null,
+    "format": [
+      "glb"
+    ],
+    "fileSize": 480224,
+    "metadata": {}
+  },
+  {
+    "id": "space-shuttle-remote-manipulator-system-canadarm",
+    "name": "Space Shuttle Remote Manipulator System (Canadarm)",
+    "slug": "space-shuttle-remote-manipulator-system-canadarm",
+    "category": "spacecraft",
+    "tags": [
+      "space",
+      "shuttle",
+      "remote",
+      "manipulator",
+      "system",
+      "canadarm"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Space Shuttle Remote Manipulator System (Canadarm)/Space Shuttle Remote Manipulator System (Canadarm).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Space%20Shuttle%20Remote%20Manipulator%20System%20(Canadarm)/Space%20Shuttle%20Remote%20Manipulator%20System%20(Canadarm).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Space%20Shuttle%20Remote%20Manipulator%20System%20(Canadarm)/Space%20Shuttle%20Remote%20Manipulator%20System%20(Canadarm).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 271276,
+    "metadata": {}
+  },
+  {
+    "id": "space-systems-loral-ssl-1300",
+    "name": "Space Systems Loral (SSL-1300)",
+    "slug": "space-systems-loral-ssl-1300",
+    "category": "spacecraft",
+    "tags": [
+      "space",
+      "systems",
+      "loral",
+      "ssl",
+      "1300"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Space Systems Loral (SSL-1300)/Space Systems Loral (SSL-1300).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Space%20Systems%20Loral%20(SSL-1300)/Space%20Systems%20Loral%20(SSL-1300).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Space%20Systems%20Loral%20(SSL-1300)/Space%20Systems%20Loral%20(SSL-1300).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 510324,
+    "metadata": {}
+  },
+  {
+    "id": "spartan-201",
+    "name": "Spartan 201",
+    "slug": "spartan-201",
+    "category": "spacecraft",
+    "tags": [
+      "spartan",
+      "201"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Spartan 201/Spartan 201.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Spartan%20201/Spartan%20201.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Spartan%20201/Spartan%20201.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 137564,
+    "metadata": {}
+  },
+  {
+    "id": "spitzer-space-telescope",
+    "name": "Spitzer Space Telescope",
+    "slug": "spitzer-space-telescope",
+    "category": "telescopes",
+    "tags": [
+      "spitzer",
+      "space",
+      "telescope"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Spitzer Space Telescope/Spitzer Space Telescope.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Spitzer%20Space%20Telescope/Spitzer%20Space%20Telescope.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Spitzer%20Space%20Telescope/Spitzer%20Space%20Telescope.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 251388,
+    "metadata": {}
+  },
+  {
+    "id": "stardust",
+    "name": "Stardust",
+    "slug": "stardust",
+    "category": "planetary-objects",
+    "tags": [
+      "stardust"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Stardust/Stardust.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Stardust/Stardust.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Stardust/Stardust.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 3800544,
+    "metadata": {}
+  },
+  {
+    "id": "stardust-capsule",
+    "name": "Stardust capsule",
+    "slug": "stardust-capsule",
+    "category": "planetary-objects",
+    "tags": [
+      "stardust",
+      "capsule"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Stardust/Stardust capsule.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Stardust/Stardust%20capsule.glb",
+    "previewUrl": null,
+    "format": [
+      "glb"
+    ],
+    "fileSize": 2282444,
+    "metadata": {}
+  },
+  {
+    "id": "stardust-capsule-closed",
+    "name": "Stardust capsule closed",
+    "slug": "stardust-capsule-closed",
+    "category": "planetary-objects",
+    "tags": [
+      "stardust",
+      "capsule",
+      "closed"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Stardust/Stardust capsule closed.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Stardust/Stardust%20capsule%20closed.glb",
+    "previewUrl": null,
+    "format": [
+      "glb"
+    ],
+    "fileSize": 3779840,
+    "metadata": {}
+  },
+  {
+    "id": "stardust-without-capsule",
+    "name": "Stardust without capsule",
+    "slug": "stardust-without-capsule",
+    "category": "planetary-objects",
+    "tags": [
+      "stardust",
+      "without",
+      "capsule"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Stardust/Stardust without capsule.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Stardust/Stardust%20without%20capsule.glb",
+    "previewUrl": null,
+    "format": [
+      "glb"
+    ],
+    "fileSize": 3757216,
+    "metadata": {}
+  },
+  {
+    "id": "station-explorer-for-x-ray-timing-and-navigation-sextant",
+    "name": "Station Explorer for X-Ray Timing and Navigation (SEXTANT)",
+    "slug": "station-explorer-for-x-ray-timing-and-navigation-sextant",
+    "category": "space-stations",
+    "tags": [
+      "station",
+      "explorer",
+      "for",
+      "ray",
+      "timing",
+      "and",
+      "navigation",
+      "sextant"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Station Explorer for X-Ray Timing and Navigation (SEXTANT)/Station Explorer for X-Ray Timing and Navigation (SEXTANT).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Station%20Explorer%20for%20X-Ray%20Timing%20and%20Navigation%20(SEXTANT)/Station%20Explorer%20for%20X-Ray%20Timing%20and%20Navigation%20(SEXTANT).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Station%20Explorer%20for%20X-Ray%20Timing%20and%20Navigation%20(SEXTANT)/Station%20Explorer%20for%20X-Ray%20Timing%20and%20Navigation%20(SEXTANT).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 2632772,
+    "metadata": {}
+  },
+  {
+    "id": "submillimeter-wave-astronomy-satellite-swas",
+    "name": "Submillimeter Wave Astronomy Satellite (SWAS)",
+    "slug": "submillimeter-wave-astronomy-satellite-swas",
+    "category": "satellites",
+    "tags": [
+      "submillimeter",
+      "wave",
+      "astronomy",
+      "satellite",
+      "swas"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Submillimeter Wave Astronomy Satellite (SWAS)/Submillimeter Wave Astronomy Satellite (SWAS).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Submillimeter%20Wave%20Astronomy%20Satellite%20(SWAS)/Submillimeter%20Wave%20Astronomy%20Satellite%20(SWAS).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Submillimeter%20Wave%20Astronomy%20Satellite%20(SWAS)/Submillimeter%20Wave%20Astronomy%20Satellite%20(SWAS).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 150296,
+    "metadata": {}
+  },
+  {
+    "id": "suomi-national-polar-orbiting-partnership-suomi-npp",
+    "name": "Suomi National Polar-orbiting Partnership (Suomi NPP)",
+    "slug": "suomi-national-polar-orbiting-partnership-suomi-npp",
+    "category": "spacecraft",
+    "tags": [
+      "suomi",
+      "national",
+      "polar",
+      "orbiting",
+      "partnership",
+      "npp"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Suomi National Polar-orbiting Partnership (Suomi NPP)/Suomi National Polar-orbiting Partnership (Suomi NPP).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Suomi%20National%20Polar-orbiting%20Partnership%20(Suomi%20NPP)/Suomi%20National%20Polar-orbiting%20Partnership%20(Suomi%20NPP).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Suomi%20National%20Polar-orbiting%20Partnership%20(Suomi%20NPP)/Suomi%20National%20Polar-orbiting%20Partnership%20(Suomi%20NPP).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 2283576,
+    "metadata": {}
+  },
+  {
+    "id": "super-lightweight-interchangeable",
+    "name": "Super Lightweight Interchangeable",
+    "slug": "super-lightweight-interchangeable",
+    "category": "spacecraft",
+    "tags": [
+      "super",
+      "lightweight",
+      "interchangeable"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Super Lightweight Interchangeable/Super Lightweight Interchangeable.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Super%20Lightweight%20Interchangeable/Super%20Lightweight%20Interchangeable.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Super%20Lightweight%20Interchangeable/Super%20Lightweight%20Interchangeable.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 1129164,
+    "metadata": {}
+  },
+  {
+    "id": "suzaku",
+    "name": "Suzaku",
+    "slug": "suzaku",
+    "category": "spacecraft",
+    "tags": [
+      "suzaku"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Suzaku/Suzaku.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Suzaku/Suzaku.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Suzaku/Suzaku.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 386852,
+    "metadata": {}
+  },
+  {
+    "id": "swift",
+    "name": "Swift",
+    "slug": "swift",
+    "category": "spacecraft",
+    "tags": [
+      "swift"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Swift/Swift.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Swift/Swift.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Swift/Swift.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 211404,
+    "metadata": {}
+  },
+  {
+    "id": "tall-dish-dish",
+    "name": "Tall Dish (dish)",
+    "slug": "tall-dish-dish",
+    "category": "spacecraft",
+    "tags": [
+      "tall",
+      "dish"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Tall Dish/Tall Dish (dish).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Tall%20Dish/Tall%20Dish%20(dish).glb",
+    "previewUrl": null,
+    "format": [
+      "glb"
+    ],
+    "fileSize": 1390916,
+    "metadata": {}
+  },
+  {
+    "id": "tall-dish-post",
+    "name": "Tall Dish (post)",
+    "slug": "tall-dish-post",
+    "category": "spacecraft",
+    "tags": [
+      "tall",
+      "dish",
+      "post"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Tall Dish/Tall Dish (post).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Tall%20Dish/Tall%20Dish%20(post).glb",
+    "previewUrl": null,
+    "format": [
+      "glb"
+    ],
+    "fileSize": 244516,
+    "metadata": {}
+  },
+  {
+    "id": "tall-dish-turntable",
+    "name": "Tall Dish (turntable)",
+    "slug": "tall-dish-turntable",
+    "category": "spacecraft",
+    "tags": [
+      "tall",
+      "dish",
+      "turntable"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Tall Dish/Tall Dish (turntable).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Tall%20Dish/Tall%20Dish%20(turntable).glb",
+    "previewUrl": null,
+    "format": [
+      "glb"
+    ],
+    "fileSize": 50680,
+    "metadata": {}
+  },
+  {
+    "id": "terra",
+    "name": "Terra",
+    "slug": "terra",
+    "category": "satellites",
+    "tags": [
+      "terra"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Terra/Terra.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Terra/Terra.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Terra/Terra.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 2150600,
+    "metadata": {}
+  },
+  {
+    "id": "tether",
+    "name": "Tether",
+    "slug": "tether",
+    "category": "spacecraft",
+    "tags": [
+      "tether"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Tether/Tether.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Tether/Tether.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Tether/Tether.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 491904,
+    "metadata": {}
+  },
+  {
+    "id": "time-history-of-events-and-macroscale-interactions-during-substorms-themis",
+    "name": "Time History of Events and Macroscale Interactions During Substorms (THEMIS)",
+    "slug": "time-history-of-events-and-macroscale-interactions-during-substorms-themis",
+    "category": "spacecraft",
+    "tags": [
+      "time",
+      "history",
+      "events",
+      "and",
+      "macroscale",
+      "interactions",
+      "during",
+      "substorms"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Time History of Events and Macroscale Interactions During Substorms (THEMIS)/Time History of Events and Macroscale Interactions During Substorms (THEMIS).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Time%20History%20of%20Events%20and%20Macroscale%20Interactions%20During%20Substorms%20(THEMIS)/Time%20History%20of%20Events%20and%20Macroscale%20Interactions%20During%20Substorms%20(THEMIS).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Time%20History%20of%20Events%20and%20Macroscale%20Interactions%20During%20Substorms%20(THEMIS)/Time%20History%20of%20Events%20and%20Macroscale%20Interactions%20During%20Substorms%20(THEMIS).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 682092,
+    "metadata": {}
+  },
+  {
+    "id": "topex-poseidon",
+    "name": "TOPEX-Poseidon",
+    "slug": "topex-poseidon",
+    "category": "spacecraft",
+    "tags": [
+      "topex",
+      "poseidon"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/TOPEX-Poseidon/TOPEX-Poseidon.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/TOPEX-Poseidon/TOPEX-Poseidon.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/TOPEX-Poseidon/TOPEX-Poseidon.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 214264,
+    "metadata": {}
+  },
+  {
+    "id": "total-ozone-mapping-spectrometer-toms",
+    "name": "Total Ozone Mapping Spectrometer (TOMS)",
+    "slug": "total-ozone-mapping-spectrometer-toms",
+    "category": "spacecraft",
+    "tags": [
+      "total",
+      "ozone",
+      "mapping",
+      "spectrometer",
+      "toms"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Total Ozone Mapping Spectrometer (TOMS)/Total Ozone Mapping Spectrometer (TOMS).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Total%20Ozone%20Mapping%20Spectrometer%20(TOMS)/Total%20Ozone%20Mapping%20Spectrometer%20(TOMS).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Total%20Ozone%20Mapping%20Spectrometer%20(TOMS)/Total%20Ozone%20Mapping%20Spectrometer%20(TOMS).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 98620,
+    "metadata": {}
+  },
+  {
+    "id": "tracking-and-data-relay-satellites-tdrs-a",
+    "name": "Tracking and Data Relay Satellites (TDRS) (A)",
+    "slug": "tracking-and-data-relay-satellites-tdrs-a",
+    "category": "satellites",
+    "tags": [
+      "tracking",
+      "and",
+      "data",
+      "relay",
+      "satellites",
+      "tdrs"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Tracking and Data Relay Satellites (TDRS) (A)/Tracking and Data Relay Satellites (TDRS) (A).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Tracking%20and%20Data%20Relay%20Satellites%20(TDRS)%20(A)/Tracking%20and%20Data%20Relay%20Satellites%20(TDRS)%20(A).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Tracking%20and%20Data%20Relay%20Satellites%20(TDRS)%20(A)/Tracking%20and%20Data%20Relay%20Satellites%20(TDRS)%20(A).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 96792,
+    "metadata": {}
+  },
+  {
+    "id": "tracking-and-data-relay-satellites-tdrs-b",
+    "name": "Tracking and Data Relay Satellites (TDRS) (B)",
+    "slug": "tracking-and-data-relay-satellites-tdrs-b",
+    "category": "satellites",
+    "tags": [
+      "tracking",
+      "and",
+      "data",
+      "relay",
+      "satellites",
+      "tdrs"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Tracking and Data Relay Satellites (TDRS) (B)/Tracking and Data Relay Satellites (TDRS) (B).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Tracking%20and%20Data%20Relay%20Satellites%20(TDRS)%20(B)/Tracking%20and%20Data%20Relay%20Satellites%20(TDRS)%20(B).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Tracking%20and%20Data%20Relay%20Satellites%20(TDRS)%20(B)/Tracking%20and%20Data%20Relay%20Satellites%20(TDRS)%20(B).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 975956,
+    "metadata": {}
+  },
+  {
+    "id": "tracking-and-data-relay-satellites-tdrs-c",
+    "name": "Tracking and Data Relay Satellites (TDRS) (C)",
+    "slug": "tracking-and-data-relay-satellites-tdrs-c",
+    "category": "satellites",
+    "tags": [
+      "tracking",
+      "and",
+      "data",
+      "relay",
+      "satellites",
+      "tdrs"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Tracking and Data Relay Satellites (TDRS) (C)/Tracking and Data Relay Satellites (TDRS) (C).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Tracking%20and%20Data%20Relay%20Satellites%20(TDRS)%20(C)/Tracking%20and%20Data%20Relay%20Satellites%20(TDRS)%20(C).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Tracking%20and%20Data%20Relay%20Satellites%20(TDRS)%20(C)/Tracking%20and%20Data%20Relay%20Satellites%20(TDRS)%20(C).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 2127504,
+    "metadata": {}
+  },
+  {
+    "id": "tracking-and-data-relay-satellites-tdrs-c-left-antenna",
+    "name": "Tracking and Data Relay Satellites (TDRS) (C) (left antenna)",
+    "slug": "tracking-and-data-relay-satellites-tdrs-c-left-antenna",
+    "category": "satellites",
+    "tags": [
+      "tracking",
+      "and",
+      "data",
+      "relay",
+      "satellites",
+      "tdrs",
+      "left",
+      "antenna"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Tracking and Data Relay Satellites (TDRS) (C)/Tracking and Data Relay Satellites (TDRS) (C) (left antenna).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Tracking%20and%20Data%20Relay%20Satellites%20(TDRS)%20(C)/Tracking%20and%20Data%20Relay%20Satellites%20(TDRS)%20(C)%20(left%20antenna).glb",
+    "previewUrl": null,
+    "format": [
+      "glb"
+    ],
+    "fileSize": 2917112,
+    "metadata": {}
+  },
+  {
+    "id": "tracking-and-data-relay-satellites-tdrs-c-right-antenna",
+    "name": "Tracking and Data Relay Satellites (TDRS) (C) (right antenna)",
+    "slug": "tracking-and-data-relay-satellites-tdrs-c-right-antenna",
+    "category": "satellites",
+    "tags": [
+      "tracking",
+      "and",
+      "data",
+      "relay",
+      "satellites",
+      "tdrs",
+      "right",
+      "antenna"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Tracking and Data Relay Satellites (TDRS) (C)/Tracking and Data Relay Satellites (TDRS) (C) (right antenna).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Tracking%20and%20Data%20Relay%20Satellites%20(TDRS)%20(C)/Tracking%20and%20Data%20Relay%20Satellites%20(TDRS)%20(C)%20(right%20antenna).glb",
+    "previewUrl": null,
+    "format": [
+      "glb"
+    ],
+    "fileSize": 2916768,
+    "metadata": {}
+  },
+  {
+    "id": "tracking-and-data-relay-satellites-tdrs-d",
+    "name": "Tracking and Data Relay Satellites (TDRS) (D)",
+    "slug": "tracking-and-data-relay-satellites-tdrs-d",
+    "category": "satellites",
+    "tags": [
+      "tracking",
+      "and",
+      "data",
+      "relay",
+      "satellites",
+      "tdrs"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Tracking and Data Relay Satellites (TDRS) (D)/Tracking and Data Relay Satellites (TDRS) (D).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Tracking%20and%20Data%20Relay%20Satellites%20(TDRS)%20(D)/Tracking%20and%20Data%20Relay%20Satellites%20(TDRS)%20(D).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Tracking%20and%20Data%20Relay%20Satellites%20(TDRS)%20(D)/Tracking%20and%20Data%20Relay%20Satellites%20(TDRS)%20(D).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 1795448,
+    "metadata": {}
+  },
+  {
+    "id": "tracking-and-data-relay-satellites-trds-e",
+    "name": "Tracking and Data Relay Satellites (TRDS) (E)",
+    "slug": "tracking-and-data-relay-satellites-trds-e",
+    "category": "satellites",
+    "tags": [
+      "tracking",
+      "and",
+      "data",
+      "relay",
+      "satellites",
+      "trds"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Tracking and Data Relay Satellites (TRDS) (E)/Tracking and Data Relay Satellites (TRDS) (E).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Tracking%20and%20Data%20Relay%20Satellites%20(TRDS)%20(E)/Tracking%20and%20Data%20Relay%20Satellites%20(TRDS)%20(E).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Tracking%20and%20Data%20Relay%20Satellites%20(TRDS)%20(E)/Tracking%20and%20Data%20Relay%20Satellites%20(TRDS)%20(E).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 216892,
+    "metadata": {}
+  },
+  {
+    "id": "transiting-exoplanet-survey-satellite-tess-a",
+    "name": "Transiting Exoplanet Survey Satellite (TESS) (A)",
+    "slug": "transiting-exoplanet-survey-satellite-tess-a",
+    "category": "satellites",
+    "tags": [
+      "transiting",
+      "exoplanet",
+      "survey",
+      "satellite",
+      "tess"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Transiting Exoplanet Survey Satellite (TESS) (A)/Transiting Exoplanet Survey Satellite (TESS) (A).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Transiting%20Exoplanet%20Survey%20Satellite%20(TESS)%20(A)/Transiting%20Exoplanet%20Survey%20Satellite%20(TESS)%20(A).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Transiting%20Exoplanet%20Survey%20Satellite%20(TESS)%20(A)/Transiting%20Exoplanet%20Survey%20Satellite%20(TESS)%20(A).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 206576,
+    "metadata": {}
+  },
+  {
+    "id": "transiting-exoplanet-survey-satellite-tess-b",
+    "name": "Transiting Exoplanet Survey Satellite (TESS) (B)",
+    "slug": "transiting-exoplanet-survey-satellite-tess-b",
+    "category": "satellites",
+    "tags": [
+      "transiting",
+      "exoplanet",
+      "survey",
+      "satellite",
+      "tess"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Transiting Exoplanet Survey Satellite (TESS) (B)/Transiting Exoplanet Survey Satellite (TESS) (B).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Transiting%20Exoplanet%20Survey%20Satellite%20(TESS)%20(B)/Transiting%20Exoplanet%20Survey%20Satellite%20(TESS)%20(B).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Transiting%20Exoplanet%20Survey%20Satellite%20(TESS)%20(B)/Transiting%20Exoplanet%20Survey%20Satellite%20(TESS)%20(B).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 1693644,
+    "metadata": {}
+  },
+  {
+    "id": "tropical-rainfall-measuring-mission-trmm",
+    "name": "Tropical Rainfall Measuring Mission (TRMM)",
+    "slug": "tropical-rainfall-measuring-mission-trmm",
+    "category": "space-stations",
+    "tags": [
+      "tropical",
+      "rainfall",
+      "measuring",
+      "mission",
+      "trmm"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Tropical Rainfall Measuring Mission (TRMM)/Tropical Rainfall Measuring Mission (TRMM).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Tropical%20Rainfall%20Measuring%20Mission%20(TRMM)/Tropical%20Rainfall%20Measuring%20Mission%20(TRMM).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Tropical%20Rainfall%20Measuring%20Mission%20(TRMM)/Tropical%20Rainfall%20Measuring%20Mission%20(TRMM).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 195804,
+    "metadata": {}
+  },
+  {
+    "id": "tselina-2",
+    "name": "Tselina-2",
+    "slug": "tselina-2",
+    "category": "spacecraft",
+    "tags": [
+      "tselina"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Tselina-2/Tselina-2.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Tselina-2/Tselina-2.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Tselina-2/Tselina-2.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 558920,
+    "metadata": {}
+  },
+  {
+    "id": "ulysses",
+    "name": "Ulysses",
+    "slug": "ulysses",
+    "category": "spacecraft",
+    "tags": [
+      "ulysses"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Ulysses/Ulysses.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Ulysses/Ulysses.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Ulysses/Ulysses.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 2462656,
+    "metadata": {}
+  },
+  {
+    "id": "van-allen-probes",
+    "name": "Van Allen Probes",
+    "slug": "van-allen-probes",
+    "category": "spacecraft",
+    "tags": [
+      "van",
+      "allen",
+      "probes"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Van Allen Probes/Van Allen Probes.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Van%20Allen%20Probes/Van%20Allen%20Probes.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Van%20Allen%20Probes/Van%20Allen%20Probes.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 933260,
+    "metadata": {}
+  },
+  {
+    "id": "vehicle-assembly-building-vab",
+    "name": "Vehicle Assembly Building (VAB)",
+    "slug": "vehicle-assembly-building-vab",
+    "category": "spacecraft",
+    "tags": [
+      "vehicle",
+      "assembly",
+      "building",
+      "vab"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Vehicle Assembly Building (VAB)/Vehicle Assembly Building (VAB).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Vehicle%20Assembly%20Building%20(VAB)/Vehicle%20Assembly%20Building%20(VAB).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Vehicle%20Assembly%20Building%20(VAB)/Vehicle%20Assembly%20Building%20(VAB).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 6505624,
+    "metadata": {}
+  },
+  {
+    "id": "viking-lander",
+    "name": "Viking Lander",
+    "slug": "viking-lander",
+    "category": "spacecraft",
+    "tags": [
+      "viking",
+      "lander"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Viking Lander/Viking Lander.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Viking%20Lander/Viking%20Lander.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Viking%20Lander/Viking%20Lander.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 1849384,
+    "metadata": {}
+  },
+  {
+    "id": "voyager-probe-a",
+    "name": "Voyager Probe (A)",
+    "slug": "voyager-probe-a",
+    "category": "spacecraft",
+    "tags": [
+      "voyager",
+      "probe"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Voyager Probe (A)/Voyager Probe (A).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Voyager%20Probe%20(A)/Voyager%20Probe%20(A).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Voyager%20Probe%20(A)/Voyager%20Probe%20(A).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 285936,
+    "metadata": {}
+  },
+  {
+    "id": "voyager-probe-b",
+    "name": "Voyager Probe (B)",
+    "slug": "voyager-probe-b",
+    "category": "spacecraft",
+    "tags": [
+      "voyager",
+      "probe"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Voyager Probe (B)/Voyager Probe (B).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Voyager%20Probe%20(B)/Voyager%20Probe%20(B).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Voyager%20Probe%20(B)/Voyager%20Probe%20(B).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 1720864,
+    "metadata": {}
+  },
+  {
+    "id": "voyager-probe-b-antenna",
+    "name": "Voyager Probe (B) (antenna)",
+    "slug": "voyager-probe-b-antenna",
+    "category": "spacecraft",
+    "tags": [
+      "voyager",
+      "probe",
+      "antenna"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Voyager Probe (B)/Voyager Probe (B) (antenna).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Voyager%20Probe%20(B)/Voyager%20Probe%20(B)%20(antenna).glb",
+    "previewUrl": null,
+    "format": [
+      "glb"
+    ],
+    "fileSize": 166352,
+    "metadata": {}
+  },
+  {
+    "id": "wide-field-planetary-camera",
+    "name": "Wide Field Planetary Camera",
+    "slug": "wide-field-planetary-camera",
+    "category": "planetary-objects",
+    "tags": [
+      "wide",
+      "field",
+      "planetary",
+      "camera"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Wide Field Planetary Camera/Wide Field Planetary Camera.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Wide%20Field%20Planetary%20Camera/Wide%20Field%20Planetary%20Camera.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Wide%20Field%20Planetary%20Camera/Wide%20Field%20Planetary%20Camera.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 289468,
+    "metadata": {}
+  },
+  {
+    "id": "wide-field-infrared-explorer-wire",
+    "name": "Wide-Field Infrared Explorer (WIRE)",
+    "slug": "wide-field-infrared-explorer-wire",
+    "category": "spacecraft",
+    "tags": [
+      "wide",
+      "field",
+      "infrared",
+      "explorer",
+      "wire"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Wide-Field Infrared Explorer (WIRE)/Wide-Field Infrared Explorer (WIRE).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Wide-Field%20Infrared%20Explorer%20(WIRE)/Wide-Field%20Infrared%20Explorer%20(WIRE).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Wide-Field%20Infrared%20Explorer%20(WIRE)/Wide-Field%20Infrared%20Explorer%20(WIRE).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 375404,
+    "metadata": {}
+  },
+  {
+    "id": "wilkinson-microwave-anisotropy-probe-wmap",
+    "name": "Wilkinson Microwave Anisotropy Probe (WMAP)",
+    "slug": "wilkinson-microwave-anisotropy-probe-wmap",
+    "category": "spacecraft",
+    "tags": [
+      "wilkinson",
+      "microwave",
+      "anisotropy",
+      "probe",
+      "wmap"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Wilkinson Microwave Anisotropy Probe (WMAP)/Wilkinson Microwave Anisotropy Probe (WMAP).glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Wilkinson%20Microwave%20Anisotropy%20Probe%20(WMAP)/Wilkinson%20Microwave%20Anisotropy%20Probe%20(WMAP).glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Wilkinson%20Microwave%20Anisotropy%20Probe%20(WMAP)/Wilkinson%20Microwave%20Anisotropy%20Probe%20(WMAP).png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 1180264,
+    "metadata": {}
+  },
+  {
+    "id": "wind",
+    "name": "Wind",
+    "slug": "wind",
+    "category": "spacecraft",
+    "tags": [
+      "wind"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Wind/Wind.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Wind/Wind.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Wind/Wind.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 233988,
+    "metadata": {}
+  },
+  {
+    "id": "wrench",
+    "name": "Wrench",
+    "slug": "wrench",
+    "category": "spacecraft",
+    "tags": [
+      "wrench"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Wrench/Wrench.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Wrench/Wrench.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Wrench/Wrench.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 30720,
+    "metadata": {}
+  },
+  {
+    "id": "x-57",
+    "name": "X-57",
+    "slug": "x-57",
+    "category": "spacecraft",
+    "tags": [],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/X-57/X-57.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/X-57/X-57.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/X-57/X-57.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 13302236,
+    "metadata": {}
+  },
+  {
+    "id": "z2-spacesuit",
+    "name": "Z2 Spacesuit",
+    "slug": "z2-spacesuit",
+    "category": "astronaut-equipment",
+    "tags": [
+      "spacesuit"
+    ],
+    "sourceRepo": "nasa/NASA-3D-Resources",
+    "sourcePath": "3D Models/Z2 Spacesuit/Z2 Spacesuit.glb",
+    "modelUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Z2%20Spacesuit/Z2%20Spacesuit.glb",
+    "previewUrl": "https://raw.githubusercontent.com/nasa/NASA-3D-Resources/master/3D%20Models/Z2%20Spacesuit/Z2%20Spacesuit.png",
+    "format": [
+      "glb"
+    ],
+    "fileSize": 16933148,
+    "metadata": {}
+  }
+]
